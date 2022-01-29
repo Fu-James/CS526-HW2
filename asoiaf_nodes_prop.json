@@ -1,0 +1,7166 @@
+[
+ {
+   "id": 0,
+   "name": "Addam Marbrand",
+   "degree": 12,
+   "peel": 10,
+   "diversity": 1.198849313,
+   "betweenness": 0.000469682,
+   "pagerank": 0.000813212
+ },
+ {
+   "id": 1,
+   "name": "Aegon Frey (son of Stevron)",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.039720771,
+   "betweenness": 0,
+   "pagerank": 0.000410273
+ },
+ {
+   "id": 2,
+   "name": "Aegon I Targaryen",
+   "degree": 9,
+   "peel": 5,
+   "diversity": 1.464816385,
+   "betweenness": 0.006891002,
+   "pagerank": 0.001100074
+ },
+ {
+   "id": 3,
+   "name": "Aegon Targaryen (son of Rhaegar)",
+   "degree": 15,
+   "peel": 7,
+   "diversity": 1.801892401,
+   "betweenness": 0.006012167,
+   "pagerank": 0.002093592
+ },
+ {
+   "id": 4,
+   "name": "Aegon V Targaryen",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000255747
+ },
+ {
+   "id": 5,
+   "name": "Aemon Targaryen (Dragonknight)",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000220526
+ },
+ {
+   "id": 6,
+   "name": "Aemon Targaryen (Maester Aemon)",
+   "degree": 26,
+   "peel": 8,
+   "diversity": 1.751052605,
+   "betweenness": 0.019000091,
+   "pagerank": 0.005212806
+ },
+ {
+   "id": 7,
+   "name": "Aenys Frey",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.386294361,
+   "betweenness": 0.000811867,
+   "pagerank": 0.000587833
+ },
+ {
+   "id": 8,
+   "name": "Aeron Greyjoy",
+   "degree": 15,
+   "peel": 5,
+   "diversity": 1.748970751,
+   "betweenness": 0.012935047,
+   "pagerank": 0.004498805
+ },
+ {
+   "id": 9,
+   "name": "Aerys I Targaryen",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000215297
+ },
+ {
+   "id": 10,
+   "name": "Aerys II Targaryen",
+   "degree": 19,
+   "peel": 10,
+   "diversity": 1.70407034,
+   "betweenness": 0.014068789,
+   "pagerank": 0.002867744
+ },
+ {
+   "id": 11,
+   "name": "Aggar",
+   "degree": 4,
+   "peel": 2,
+   "diversity": 1.039720771,
+   "betweenness": 0.007996771,
+   "pagerank": 0.001118448
+ },
+ {
+   "id": 12,
+   "name": "Aggo",
+   "degree": 10,
+   "peel": 8,
+   "diversity": 0.940447989,
+   "betweenness": 0.000100433,
+   "pagerank": 0.001520208
+ },
+ {
+   "id": 13,
+   "name": "Alayaya",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000547053
+ },
+ {
+   "id": 14,
+   "name": "Albett",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000332455
+ },
+ {
+   "id": 15,
+   "name": "Alebelly",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.386294361,
+   "betweenness": 0.00000713,
+   "pagerank": 0.000451938
+ },
+ {
+   "id": 16,
+   "name": "Alerie Hightower",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000245362
+ },
+ {
+   "id": 17,
+   "name": "Alester Florent",
+   "degree": 7,
+   "peel": 6,
+   "diversity": 1.351783994,
+   "betweenness": 0.000362833,
+   "pagerank": 0.000742177
+ },
+ {
+   "id": 18,
+   "name": "Alla Tyrell",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.33217904,
+   "betweenness": 0.0000118,
+   "pagerank": 0.000754206
+ },
+ {
+   "id": 19,
+   "name": "Allar Deem",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000257008
+ },
+ {
+   "id": 20,
+   "name": "Allard Seaworth",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 1.098612289,
+   "betweenness": 0.0000167,
+   "pagerank": 0.000495025
+ },
+ {
+   "id": 21,
+   "name": "Alleras",
+   "degree": 8,
+   "peel": 4,
+   "diversity": 0.900256051,
+   "betweenness": 0.014199147,
+   "pagerank": 0.001749233
+ },
+ {
+   "id": 22,
+   "name": "Alliser Thorne",
+   "degree": 15,
+   "peel": 8,
+   "diversity": 1.487816716,
+   "betweenness": 0.002217858,
+   "pagerank": 0.001928278
+ },
+ {
+   "id": 23,
+   "name": "Alyn",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 1.33217904,
+   "betweenness": 0.000023,
+   "pagerank": 0.000538663
+ },
+ {
+   "id": 24,
+   "name": "Alys Arryn",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000649616
+ },
+ {
+   "id": 25,
+   "name": "Alys Karstark",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.00050154
+ },
+ {
+   "id": 26,
+   "name": "Alysane Mormont",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000720381
+ },
+ {
+   "id": 27,
+   "name": "Amabel",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000431671
+ },
+ {
+   "id": 28,
+   "name": "Amerei Frey",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0.0000023,
+   "pagerank": 0.000412983
+ },
+ {
+   "id": 29,
+   "name": "Amory Lorch",
+   "degree": 20,
+   "peel": 12,
+   "diversity": 1.344257669,
+   "betweenness": 0.001181454,
+   "pagerank": 0.00122693
+ },
+ {
+   "id": 30,
+   "name": "Anders Yronwood",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0.0000166,
+   "pagerank": 0.000280168
+ },
+ {
+   "id": 31,
+   "name": "Andrew Estermont",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 1.098612289,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000589546
+ },
+ {
+   "id": 32,
+   "name": "Andrey Dalt",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 0.950270539,
+   "betweenness": 0.000041,
+   "pagerank": 0.000832746
+ },
+ {
+   "id": 33,
+   "name": "Anguy",
+   "degree": 9,
+   "peel": 6,
+   "diversity": 1.735126457,
+   "betweenness": 0.001262506,
+   "pagerank": 0.001294206
+ },
+ {
+   "id": 34,
+   "name": "Anya Waynwood",
+   "degree": 7,
+   "peel": 4,
+   "diversity": 0.79631164,
+   "betweenness": 0.000583944,
+   "pagerank": 0.001147792
+ },
+ {
+   "id": 35,
+   "name": "Archibald Yronwood",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0.562335145,
+   "betweenness": 0.00000238,
+   "pagerank": 0.000918824
+ },
+ {
+   "id": 36,
+   "name": "Ardrian Celtigar",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000432511
+ },
+ {
+   "id": 37,
+   "name": "Areo Hotah",
+   "degree": 9,
+   "peel": 6,
+   "diversity": 1.522955068,
+   "betweenness": 0.000130391,
+   "pagerank": 0.001863187
+ },
+ {
+   "id": 38,
+   "name": "Arianne Martell",
+   "degree": 20,
+   "peel": 6,
+   "diversity": 2.029682547,
+   "betweenness": 0.017878371,
+   "pagerank": 0.003815659
+ },
+ {
+   "id": 39,
+   "name": "Armen",
+   "degree": 6,
+   "peel": 4,
+   "diversity": 0.450561209,
+   "betweenness": 0.0000169,
+   "pagerank": 0.001056421
+ },
+ {
+   "id": 40,
+   "name": "Arnolf Karstark",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.609437912,
+   "betweenness": 0.002619954,
+   "pagerank": 0.000704456
+ },
+ {
+   "id": 41,
+   "name": "Aron Santagar",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000214682
+ },
+ {
+   "id": 42,
+   "name": "Arron",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000520314
+ },
+ {
+   "id": 43,
+   "name": "Arson",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00022145
+ },
+ {
+   "id": 44,
+   "name": "Arstan",
+   "degree": 8,
+   "peel": 6,
+   "diversity": 1.213007566,
+   "betweenness": 0.000123935,
+   "pagerank": 0.001309324
+ },
+ {
+   "id": 45,
+   "name": "Arthor Karstark",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000278294
+ },
+ {
+   "id": 46,
+   "name": "Arthur Dayne",
+   "degree": 5,
+   "peel": 3,
+   "diversity": 1.609437912,
+   "betweenness": 0.005297159,
+   "pagerank": 0.001060521
+ },
+ {
+   "id": 47,
+   "name": "Arwyn Oakheart",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000235214
+ },
+ {
+   "id": 48,
+   "name": "Arya Stark",
+   "degree": 84,
+   "peel": 13,
+   "diversity": 2.332991632,
+   "betweenness": 0.087242361,
+   "pagerank": 0.018538945
+ },
+ {
+   "id": 49,
+   "name": "Arys Oakheart",
+   "degree": 9,
+   "peel": 6,
+   "diversity": 1.522955068,
+   "betweenness": 0.001771183,
+   "pagerank": 0.001188945
+ },
+ {
+   "id": 50,
+   "name": "Asha Greyjoy",
+   "degree": 25,
+   "peel": 5,
+   "diversity": 1.809598882,
+   "betweenness": 0.033024754,
+   "pagerank": 0.005649906
+ },
+ {
+   "id": 51,
+   "name": "Ashara Dayne",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00023108
+ },
+ {
+   "id": 52,
+   "name": "Aurane Waters",
+   "degree": 9,
+   "peel": 8,
+   "diversity": 1.522955068,
+   "betweenness": 0.0000782,
+   "pagerank": 0.000577919
+ },
+ {
+   "id": 53,
+   "name": "Axell Florent",
+   "degree": 10,
+   "peel": 6,
+   "diversity": 1.83437197,
+   "betweenness": 0.001703351,
+   "pagerank": 0.001524473
+ },
+ {
+   "id": 54,
+   "name": "Azor Ahai",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000255405
+ },
+ {
+   "id": 55,
+   "name": "Bael the Bard",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000250263
+ },
+ {
+   "id": 56,
+   "name": "Baelor Blacktyde",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0.562335145,
+   "betweenness": 0,
+   "pagerank": 0.000542884
+ },
+ {
+   "id": 57,
+   "name": "Baelor I Targaryen",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000316271
+ },
+ {
+   "id": 58,
+   "name": "Ballabar",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 1.098612289,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000617424
+ },
+ {
+   "id": 59,
+   "name": "Balman Byrch",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000466159
+ },
+ {
+   "id": 60,
+   "name": "Balon Greyjoy",
+   "degree": 13,
+   "peel": 7,
+   "diversity": 1.118968867,
+   "betweenness": 0.009545732,
+   "pagerank": 0.002957548
+ },
+ {
+   "id": 61,
+   "name": "Balon Swann",
+   "degree": 16,
+   "peel": 11,
+   "diversity": 1.541976433,
+   "betweenness": 0.003599005,
+   "pagerank": 0.001195924
+ },
+ {
+   "id": 62,
+   "name": "Bannen",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.00037383
+ },
+ {
+   "id": 63,
+   "name": "Barbrey Dustin",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.329661349,
+   "betweenness": 0.000182731,
+   "pagerank": 0.000787446
+ },
+ {
+   "id": 64,
+   "name": "Barristan Selmy",
+   "degree": 41,
+   "peel": 12,
+   "diversity": 2.153082,
+   "betweenness": 0.045549578,
+   "pagerank": 0.006072068
+ },
+ {
+   "id": 65,
+   "name": "Barsena",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000235622
+ },
+ {
+   "id": 66,
+   "name": "Bartimus",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000243793
+ },
+ {
+   "id": 67,
+   "name": "Bedwyck",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 0.500402424,
+   "betweenness": 0,
+   "pagerank": 0.000397118
+ },
+ {
+   "id": 68,
+   "name": "Belaquo",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0.693147181,
+   "betweenness": 0.0000128,
+   "pagerank": 0.000603305
+ },
+ {
+   "id": 69,
+   "name": "Bellegere Otherys",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000220809
+ },
+ {
+   "id": 70,
+   "name": "Belwas",
+   "degree": 13,
+   "peel": 8,
+   "diversity": 1.410513557,
+   "betweenness": 0.000281012,
+   "pagerank": 0.002070866
+ },
+ {
+   "id": 71,
+   "name": "Ben Bones",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000325274
+ },
+ {
+   "id": 72,
+   "name": "Ben Plumm",
+   "degree": 9,
+   "peel": 6,
+   "diversity": 1.676987774,
+   "betweenness": 0.001076548,
+   "pagerank": 0.001036099
+ },
+ {
+   "id": 73,
+   "name": "Benedar Belmore",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 0.500402424,
+   "betweenness": 0.000440168,
+   "pagerank": 0.000641825
+ },
+ {
+   "id": 74,
+   "name": "Benerro",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.386294361,
+   "betweenness": 0.0000371,
+   "pagerank": 0.000431198
+ },
+ {
+   "id": 75,
+   "name": "Benethon Scales",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000312033
+ },
+ {
+   "id": 76,
+   "name": "Benfred Tallhart",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.000366933,
+   "pagerank": 0.000599811
+ },
+ {
+   "id": 77,
+   "name": "Benjen Stark",
+   "degree": 14,
+   "peel": 9,
+   "diversity": 1.593424237,
+   "betweenness": 0.005675488,
+   "pagerank": 0.001597077
+ },
+ {
+   "id": 78,
+   "name": "Beric Dondarrion",
+   "degree": 18,
+   "peel": 10,
+   "diversity": 1.351039416,
+   "betweenness": 0.002139778,
+   "pagerank": 0.002079181
+ },
+ {
+   "id": 79,
+   "name": "Beth Cassel",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000317037
+ },
+ {
+   "id": 80,
+   "name": "Big Boil",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000258542
+ },
+ {
+   "id": 81,
+   "name": "Biter",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 1.054920168,
+   "betweenness": 0.0000944,
+   "pagerank": 0.000782857
+ },
+ {
+   "id": 82,
+   "name": "Black Balaq",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000331797
+ },
+ {
+   "id": 83,
+   "name": "Blane",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000220771
+ },
+ {
+   "id": 84,
+   "name": "Bloodbeard",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.386294361,
+   "betweenness": 0.000112216,
+   "pagerank": 0.00039272
+ },
+ {
+   "id": 85,
+   "name": "Blue Bard",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.609437912,
+   "betweenness": 0.000908267,
+   "pagerank": 0.000534842
+ },
+ {
+   "id": 86,
+   "name": "Bonifer Hasty",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000231221
+ },
+ {
+   "id": 87,
+   "name": "Boros Blount",
+   "degree": 14,
+   "peel": 11,
+   "diversity": 1.536722469,
+   "betweenness": 0.000227913,
+   "pagerank": 0.001547904
+ },
+ {
+   "id": 88,
+   "name": "Bowen Marsh",
+   "degree": 18,
+   "peel": 8,
+   "diversity": 1.428055769,
+   "betweenness": 0.001065829,
+   "pagerank": 0.002438314
+ },
+ {
+   "id": 89,
+   "name": "Bran Stark",
+   "degree": 54,
+   "peel": 12,
+   "diversity": 2.160724355,
+   "betweenness": 0.044911179,
+   "pagerank": 0.016699569
+ },
+ {
+   "id": 90,
+   "name": "Brandon Norrey",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000597971
+ },
+ {
+   "id": 91,
+   "name": "Brandon Stark",
+   "degree": 8,
+   "peel": 6,
+   "diversity": 1.213007566,
+   "betweenness": 0.000462025,
+   "pagerank": 0.000811601
+ },
+ {
+   "id": 92,
+   "name": "Brea",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 0.636514168,
+   "betweenness": 0.00000158,
+   "pagerank": 0.00054718
+ },
+ {
+   "id": 93,
+   "name": "Brella",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.0003005
+ },
+ {
+   "id": 94,
+   "name": "Brenett",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000219962
+ },
+ {
+   "id": 95,
+   "name": "Brienne of Tarth",
+   "degree": 45,
+   "peel": 13,
+   "diversity": 2.208504507,
+   "betweenness": 0.032251919,
+   "pagerank": 0.007360664
+ },
+ {
+   "id": 96,
+   "name": "Bronn",
+   "degree": 25,
+   "peel": 10,
+   "diversity": 2.033458636,
+   "betweenness": 0.00290005,
+   "pagerank": 0.003617359
+ },
+ {
+   "id": 97,
+   "name": "Brus Buckler",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000496241
+ },
+ {
+   "id": 98,
+   "name": "Brusco",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000482345
+ },
+ {
+   "id": 99,
+   "name": "Bryce Caron",
+   "degree": 5,
+   "peel": 3,
+   "diversity": 1.33217904,
+   "betweenness": 0.005174682,
+   "pagerank": 0.000780848
+ },
+ {
+   "id": 100,
+   "name": "Brynden Rivers",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000345825
+ },
+ {
+   "id": 101,
+   "name": "Brynden Tully",
+   "degree": 19,
+   "peel": 10,
+   "diversity": 1.986266518,
+   "betweenness": 0.002227036,
+   "pagerank": 0.002297805
+ },
+ {
+   "id": 102,
+   "name": "Bump",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00034388
+ },
+ {
+   "id": 103,
+   "name": "Butterbumps",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000288816
+ },
+ {
+   "id": 104,
+   "name": "Byam Flint",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000224228
+ },
+ {
+   "id": 105,
+   "name": "Caggo",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 0.950270539,
+   "betweenness": 0.002515723,
+   "pagerank": 0.00083633
+ },
+ {
+   "id": 106,
+   "name": "Caleotte",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.386294361,
+   "betweenness": 0.000073,
+   "pagerank": 0.000534515
+ },
+ {
+   "id": 107,
+   "name": "Camarron",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000278713
+ },
+ {
+   "id": 108,
+   "name": "Captain Myraham",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000248835
+ },
+ {
+   "id": 109,
+   "name": "Captain Myraham Daughter",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000233737
+ },
+ {
+   "id": 110,
+   "name": "Catelyn Stark",
+   "degree": 75,
+   "peel": 13,
+   "diversity": 2.317345932,
+   "betweenness": 0.054973668,
+   "pagerank": 0.015210744
+ },
+ {
+   "id": 111,
+   "name": "Cayn",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0.00000738,
+   "pagerank": 0.00036926
+ },
+ {
+   "id": 112,
+   "name": "Cedra",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000415537
+ },
+ {
+   "id": 113,
+   "name": "Cedric Payne",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000224332
+ },
+ {
+   "id": 114,
+   "name": "Cellador",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.039720771,
+   "betweenness": 0.00000158,
+   "pagerank": 0.000443189
+ },
+ {
+   "id": 115,
+   "name": "Cersei Lannister",
+   "degree": 97,
+   "peel": 13,
+   "diversity": 2.401216936,
+   "betweenness": 0.088704267,
+   "pagerank": 0.023607039
+ },
+ {
+   "id": 116,
+   "name": "Chataya",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000285567
+ },
+ {
+   "id": 117,
+   "name": "Chayle",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000296296
+ },
+ {
+   "id": 118,
+   "name": "Chella",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000341398
+ },
+ {
+   "id": 119,
+   "name": "Chett",
+   "degree": 7,
+   "peel": 5,
+   "diversity": 1.277034259,
+   "betweenness": 0.0000959,
+   "pagerank": 0.000911682
+ },
+ {
+   "id": 120,
+   "name": "Chiggen",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000362125
+ },
+ {
+   "id": 121,
+   "name": "Chiswyck",
+   "degree": 13,
+   "peel": 12,
+   "diversity": 0.898137003,
+   "betweenness": 0.0000428,
+   "pagerank": 0.000715803
+ },
+ {
+   "id": 122,
+   "name": "Clarence Crabb",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000236456
+ },
+ {
+   "id": 123,
+   "name": "Clayton Suggs",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000431088
+ },
+ {
+   "id": 124,
+   "name": "Clement Piper",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000329309
+ },
+ {
+   "id": 125,
+   "name": "Cleon",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 1.098612289,
+   "betweenness": 0.0000191,
+   "pagerank": 0.000513622
+ },
+ {
+   "id": 126,
+   "name": "Cleos Frey",
+   "degree": 7,
+   "peel": 7,
+   "diversity": 0,
+   "betweenness": 0.0000195,
+   "pagerank": 0.001092543
+ },
+ {
+   "id": 127,
+   "name": "Cletus Yronwood",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.33217904,
+   "betweenness": 0.000787012,
+   "pagerank": 0.000626553
+ },
+ {
+   "id": 128,
+   "name": "Cley Cerwyn",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000339014
+ },
+ {
+   "id": 129,
+   "name": "Clubfoot Karl",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000292428
+ },
+ {
+   "id": 130,
+   "name": "Clydas",
+   "degree": 7,
+   "peel": 6,
+   "diversity": 1.475076311,
+   "betweenness": 0.00022216,
+   "pagerank": 0.001215514
+ },
+ {
+   "id": 131,
+   "name": "Cohollo",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.039720771,
+   "betweenness": 0,
+   "pagerank": 0.000563735
+ },
+ {
+   "id": 132,
+   "name": "Coldhands",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0.562335145,
+   "betweenness": 0.0000159,
+   "pagerank": 0.000373553
+ },
+ {
+   "id": 133,
+   "name": "Colemon",
+   "degree": 6,
+   "peel": 4,
+   "diversity": 1.011404265,
+   "betweenness": 0.000114647,
+   "pagerank": 0.000654006
+ },
+ {
+   "id": 134,
+   "name": "Colen of Greenpools",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000281137
+ },
+ {
+   "id": 135,
+   "name": "Conn",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 1.098612289,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000695691
+ },
+ {
+   "id": 136,
+   "name": "Coratt",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000336228
+ },
+ {
+   "id": 137,
+   "name": "Corliss Penny",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000221924
+ },
+ {
+   "id": 138,
+   "name": "Cortnay Penrose",
+   "degree": 7,
+   "peel": 6,
+   "diversity": 1.153741943,
+   "betweenness": 0.00066034,
+   "pagerank": 0.000699725
+ },
+ {
+   "id": 139,
+   "name": "Cotter Pyke",
+   "degree": 10,
+   "peel": 8,
+   "diversity": 0.940447989,
+   "betweenness": 0.000259524,
+   "pagerank": 0.000973969
+ },
+ {
+   "id": 140,
+   "name": "Craster",
+   "degree": 15,
+   "peel": 8,
+   "diversity": 1.522699926,
+   "betweenness": 0.003894223,
+   "pagerank": 0.002708792
+ },
+ {
+   "id": 141,
+   "name": "Creighton Longbough",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 0.636514168,
+   "betweenness": 0.0000256,
+   "pagerank": 0.00081125
+ },
+ {
+   "id": 142,
+   "name": "Cressen",
+   "degree": 9,
+   "peel": 7,
+   "diversity": 1.464816385,
+   "betweenness": 0.000352511,
+   "pagerank": 0.001279163
+ },
+ {
+   "id": 143,
+   "name": "Cromm",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000526047
+ },
+ {
+   "id": 144,
+   "name": "Cutjack",
+   "degree": 3,
+   "peel": 1,
+   "diversity": 0.636514168,
+   "betweenness": 0.005028278,
+   "pagerank": 0.001103553
+ },
+ {
+   "id": 145,
+   "name": "Daario Naharis",
+   "degree": 19,
+   "peel": 8,
+   "diversity": 1.48322096,
+   "betweenness": 0.005468229,
+   "pagerank": 0.002784419
+ },
+ {
+   "id": 146,
+   "name": "Dacey Mormont",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000323102
+ },
+ {
+   "id": 147,
+   "name": "Daemon Sand",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000256672
+ },
+ {
+   "id": 148,
+   "name": "Daenerys Targaryen",
+   "degree": 73,
+   "peel": 9,
+   "diversity": 2.181770082,
+   "betweenness": 0.118418019,
+   "pagerank": 0.022306882
+ },
+ {
+   "id": 149,
+   "name": "Daeron I Targaryen",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000234727
+ },
+ {
+   "id": 150,
+   "name": "Daeron II Targaryen",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0.001246763,
+   "pagerank": 0.000257479
+ },
+ {
+   "id": 151,
+   "name": "Dagmer",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 1.054920168,
+   "betweenness": 0.000143971,
+   "pagerank": 0.000608929
+ },
+ {
+   "id": 152,
+   "name": "Dalbridge",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000366312
+ },
+ {
+   "id": 153,
+   "name": "Dalla",
+   "degree": 6,
+   "peel": 6,
+   "diversity": 1.242453325,
+   "betweenness": 0.0000351,
+   "pagerank": 0.000753343
+ },
+ {
+   "id": 154,
+   "name": "Damon Dance for Me",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.33217904,
+   "betweenness": 0.00000935,
+   "pagerank": 0.000774889
+ },
+ {
+   "id": 155,
+   "name": "Dancy",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000275602
+ },
+ {
+   "id": 156,
+   "name": "Danwell Frey",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 0.636514168,
+   "betweenness": 0.001046981,
+   "pagerank": 0.000511944
+ },
+ {
+   "id": 157,
+   "name": "Dareon",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.242453325,
+   "betweenness": 0.003075872,
+   "pagerank": 0.000930619
+ },
+ {
+   "id": 158,
+   "name": "Daryn Hornwood",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000310475
+ },
+ {
+   "id": 159,
+   "name": "Daven Lannister",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.00039655
+ },
+ {
+   "id": 160,
+   "name": "Davos Seaworth",
+   "degree": 33,
+   "peel": 7,
+   "diversity": 2.120173779,
+   "betweenness": 0.023846811,
+   "pagerank": 0.007860805
+ },
+ {
+   "id": 161,
+   "name": "Denyo Terys",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000380068
+ },
+ {
+   "id": 162,
+   "name": "Denys Darklyn",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000241434
+ },
+ {
+   "id": 163,
+   "name": "Denys Mallister",
+   "degree": 9,
+   "peel": 8,
+   "diversity": 0.683738906,
+   "betweenness": 0.0000126,
+   "pagerank": 0.000858632
+ },
+ {
+   "id": 164,
+   "name": "Denzo Dhan",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000258358
+ },
+ {
+   "id": 165,
+   "name": "Desmond",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000259839
+ },
+ {
+   "id": 166,
+   "name": "Desmond Grell",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.0000032,
+   "pagerank": 0.000619345
+ },
+ {
+   "id": 167,
+   "name": "Devan Seaworth",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.560710409,
+   "betweenness": 0.000328126,
+   "pagerank": 0.000829714
+ },
+ {
+   "id": 168,
+   "name": "Dick Crabb",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 0.950270539,
+   "betweenness": 0.002557403,
+   "pagerank": 0.00081538
+ },
+ {
+   "id": 169,
+   "name": "Dick Follard",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000294019
+ },
+ {
+   "id": 170,
+   "name": "Dick Straw",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000645862
+ },
+ {
+   "id": 171,
+   "name": "Dirk",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000303233
+ },
+ {
+   "id": 172,
+   "name": "Dobber",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000231597
+ },
+ {
+   "id": 173,
+   "name": "Dolf",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000369739
+ },
+ {
+   "id": 174,
+   "name": "Donal Noye",
+   "degree": 8,
+   "peel": 6,
+   "diversity": 1.386294361,
+   "betweenness": 0.000240414,
+   "pagerank": 0.001235143
+ },
+ {
+   "id": 175,
+   "name": "Donella Hornwood",
+   "degree": 7,
+   "peel": 4,
+   "diversity": 1.549826046,
+   "betweenness": 0.000224091,
+   "pagerank": 0.000635385
+ },
+ {
+   "id": 176,
+   "name": "Donnel Waynwood",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000219962
+ },
+ {
+   "id": 177,
+   "name": "Dontos Hollard",
+   "degree": 9,
+   "peel": 7,
+   "diversity": 0.848685558,
+   "betweenness": 0.000468306,
+   "pagerank": 0.001197805
+ },
+ {
+   "id": 178,
+   "name": "Doran Martell",
+   "degree": 21,
+   "peel": 9,
+   "diversity": 2.045576462,
+   "betweenness": 0.014536796,
+   "pagerank": 0.002944615
+ },
+ {
+   "id": 179,
+   "name": "Dorcas",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.791759469,
+   "betweenness": 0.00000521,
+   "pagerank": 0.00061026
+ },
+ {
+   "id": 180,
+   "name": "Doreah",
+   "degree": 6,
+   "peel": 6,
+   "diversity": 0.450561209,
+   "betweenness": 0.00000207,
+   "pagerank": 0.000790894
+ },
+ {
+   "id": 181,
+   "name": "Draqaz",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000355612
+ },
+ {
+   "id": 182,
+   "name": "Drennan",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000379843
+ },
+ {
+   "id": 183,
+   "name": "Drogo",
+   "degree": 21,
+   "peel": 8,
+   "diversity": 1.706770659,
+   "betweenness": 0.012390513,
+   "pagerank": 0.004373204
+ },
+ {
+   "id": 184,
+   "name": "Dryn",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000226914
+ },
+ {
+   "id": 185,
+   "name": "Dunsen",
+   "degree": 13,
+   "peel": 12,
+   "diversity": 0.898137003,
+   "betweenness": 0.0000428,
+   "pagerank": 0.001547673
+ },
+ {
+   "id": 186,
+   "name": "Dunstan Drumm",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0.00000734,
+   "pagerank": 0.000466786
+ },
+ {
+   "id": 187,
+   "name": "Dywen",
+   "degree": 8,
+   "peel": 6,
+   "diversity": 1.073542846,
+   "betweenness": 0.000552933,
+   "pagerank": 0.000861158
+ },
+ {
+   "id": 188,
+   "name": "Ebben",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.00000106,
+   "pagerank": 0.000558816
+ },
+ {
+   "id": 189,
+   "name": "Eddard Stark",
+   "degree": 74,
+   "peel": 13,
+   "diversity": 2.290519575,
+   "betweenness": 0.078732393,
+   "pagerank": 0.01893822
+ },
+ {
+   "id": 190,
+   "name": "Eddison Tollett",
+   "degree": 20,
+   "peel": 8,
+   "diversity": 1.33999644,
+   "betweenness": 0.003126949,
+   "pagerank": 0.002152904
+ },
+ {
+   "id": 191,
+   "name": "Edmure Tully",
+   "degree": 24,
+   "peel": 10,
+   "diversity": 2.0252303,
+   "betweenness": 0.003460566,
+   "pagerank": 0.003702267
+ },
+ {
+   "id": 192,
+   "name": "Edric Storm",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.329661349,
+   "betweenness": 0.001610784,
+   "pagerank": 0.000897121
+ },
+ {
+   "id": 193,
+   "name": "Edwyn Frey",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.386294361,
+   "betweenness": 0.00000104,
+   "pagerank": 0.000544132
+ },
+ {
+   "id": 194,
+   "name": "Elbert Arryn",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000228186
+ },
+ {
+   "id": 195,
+   "name": "Elder Brother",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000392228
+ },
+ {
+   "id": 196,
+   "name": "Eldon Estermont",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000695329
+ },
+ {
+   "id": 197,
+   "name": "Elia Martell",
+   "degree": 9,
+   "peel": 7,
+   "diversity": 1.303092404,
+   "betweenness": 0.002700036,
+   "pagerank": 0.00093676
+ },
+ {
+   "id": 198,
+   "name": "Elinor Tyrell",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 0.950270539,
+   "betweenness": 0.0000316,
+   "pagerank": 0.000807866
+ },
+ {
+   "id": 199,
+   "name": "Ellaria Sand",
+   "degree": 6,
+   "peel": 6,
+   "diversity": 1.329661349,
+   "betweenness": 0.000988794,
+   "pagerank": 0.000464905
+ },
+ {
+   "id": 200,
+   "name": "Elmar Frey",
+   "degree": 9,
+   "peel": 9,
+   "diversity": 0.848685558,
+   "betweenness": 0.000105404,
+   "pagerank": 0.000677919
+ },
+ {
+   "id": 201,
+   "name": "Elys Waynwood",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000504899
+ },
+ {
+   "id": 202,
+   "name": "Emmett",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.609437912,
+   "betweenness": 0.0000222,
+   "pagerank": 0.000643053
+ },
+ {
+   "id": 203,
+   "name": "Emmon Cuy",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0.0000169,
+   "pagerank": 0.000386363
+ },
+ {
+   "id": 204,
+   "name": "Emmon Frey",
+   "degree": 8,
+   "peel": 5,
+   "diversity": 1.559581156,
+   "betweenness": 0.000464205,
+   "pagerank": 0.000830611
+ },
+ {
+   "id": 205,
+   "name": "Emmond",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000290008
+ },
+ {
+   "id": 206,
+   "name": "Emrick",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000475367
+ },
+ {
+   "id": 207,
+   "name": "Eon Hunter",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.00029378
+ },
+ {
+   "id": 208,
+   "name": "Eroeh",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000282801
+ },
+ {
+   "id": 209,
+   "name": "Errok",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0.00000106,
+   "pagerank": 0.000457692
+ },
+ {
+   "id": 210,
+   "name": "Euron Greyjoy",
+   "degree": 13,
+   "peel": 5,
+   "diversity": 1.804371619,
+   "betweenness": 0.008004883,
+   "pagerank": 0.004461793
+ },
+ {
+   "id": 211,
+   "name": "Eustace Brune",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000241736
+ },
+ {
+   "id": 212,
+   "name": "Ezzara",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000223827
+ },
+ {
+   "id": 213,
+   "name": "Falyse Stokeworth",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.00000551,
+   "pagerank": 0.000584925
+ },
+ {
+   "id": 214,
+   "name": "Farlen",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000279032
+ },
+ {
+   "id": 215,
+   "name": "Florian the Fool",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000795762
+ },
+ {
+   "id": 216,
+   "name": "Fogo",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000328426
+ },
+ {
+   "id": 217,
+   "name": "Forley Prester",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000268983
+ },
+ {
+   "id": 218,
+   "name": "Franklyn Flowers",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 0.636514168,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000562059
+ },
+ {
+   "id": 219,
+   "name": "Franklyn Fowler",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00023997
+ },
+ {
+   "id": 220,
+   "name": "Frenken",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000279681
+ },
+ {
+   "id": 221,
+   "name": "Frenya",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000381121
+ },
+ {
+   "id": 222,
+   "name": "Fulk",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000312726
+ },
+ {
+   "id": 223,
+   "name": "Galazza Galare",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.560710409,
+   "betweenness": 0.0000768,
+   "pagerank": 0.00095014
+ },
+ {
+   "id": 224,
+   "name": "Galbart Glover",
+   "degree": 8,
+   "peel": 6,
+   "diversity": 1.320888343,
+   "betweenness": 0.000946307,
+   "pagerank": 0.000672682
+ },
+ {
+   "id": 225,
+   "name": "Galyeon of Cuy",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00021758
+ },
+ {
+   "id": 226,
+   "name": "Gared",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 0.636514168,
+   "betweenness": 0.001020953,
+   "pagerank": 0.000930895
+ },
+ {
+   "id": 227,
+   "name": "Garin (orphan)",
+   "degree": 9,
+   "peel": 5,
+   "diversity": 1.427061043,
+   "betweenness": 0.000798417,
+   "pagerank": 0.001327989
+ },
+ {
+   "id": 228,
+   "name": "Gariss",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.001045996
+ },
+ {
+   "id": 229,
+   "name": "Garlan Tyrell",
+   "degree": 7,
+   "peel": 6,
+   "diversity": 0.79631164,
+   "betweenness": 0.002519168,
+   "pagerank": 0.000765968
+ },
+ {
+   "id": 230,
+   "name": "Garrett Paege",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000220526
+ },
+ {
+   "id": 231,
+   "name": "Garth (Wolfs Den)",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000324762
+ },
+ {
+   "id": 232,
+   "name": "Garth Greyfeather",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000462355
+ },
+ {
+   "id": 233,
+   "name": "Garth Tyrell",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000215389
+ },
+ {
+   "id": 234,
+   "name": "Gawen Westerling",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0.00000264,
+   "pagerank": 0.000312257
+ },
+ {
+   "id": 235,
+   "name": "Gelmarr",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000408841
+ },
+ {
+   "id": 236,
+   "name": "Gendel",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000385128
+ },
+ {
+   "id": 237,
+   "name": "Gendry",
+   "degree": 20,
+   "peel": 8,
+   "diversity": 2.029682547,
+   "betweenness": 0.012466572,
+   "pagerank": 0.003370625
+ },
+ {
+   "id": 238,
+   "name": "Genna Lannister",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000371735
+ },
+ {
+   "id": 239,
+   "name": "Gerald Gower",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000325153
+ },
+ {
+   "id": 240,
+   "name": "Gerold Dayne",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 1.054920168,
+   "betweenness": 0.00000913,
+   "pagerank": 0.000672915
+ },
+ {
+   "id": 241,
+   "name": "Gerold Grafton",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00036738
+ },
+ {
+   "id": 242,
+   "name": "Gerold Hightower",
+   "degree": 8,
+   "peel": 5,
+   "diversity": 1.494175138,
+   "betweenness": 0.008395747,
+   "pagerank": 0.001095867
+ },
+ {
+   "id": 243,
+   "name": "Gerrick Kingsblood",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.00055369
+ },
+ {
+   "id": 244,
+   "name": "Gerris Drinkwater",
+   "degree": 9,
+   "peel": 4,
+   "diversity": 1.303092404,
+   "betweenness": 0.00265698,
+   "pagerank": 0.001808226
+ },
+ {
+   "id": 245,
+   "name": "Ghael",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000386775
+ },
+ {
+   "id": 246,
+   "name": "Gilly",
+   "degree": 14,
+   "peel": 8,
+   "diversity": 1.351783994,
+   "betweenness": 0.00112531,
+   "pagerank": 0.002697651
+ },
+ {
+   "id": 247,
+   "name": "Gilwood Hunter",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 0.500402424,
+   "betweenness": 0.000275404,
+   "pagerank": 0.000692599
+ },
+ {
+   "id": 248,
+   "name": "Godric Borrell",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000312981
+ },
+ {
+   "id": 249,
+   "name": "Godry Farring",
+   "degree": 7,
+   "peel": 5,
+   "diversity": 1.549826046,
+   "betweenness": 0.001010475,
+   "pagerank": 0.000636765
+ },
+ {
+   "id": 250,
+   "name": "Goghor the Giant",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0.562335145,
+   "betweenness": 0.00000106,
+   "pagerank": 0.000718528
+ },
+ {
+   "id": 251,
+   "name": "Gormon Tyrell",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000377591
+ },
+ {
+   "id": 252,
+   "name": "Gormond Goodbrother",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00034079
+ },
+ {
+   "id": 253,
+   "name": "Gorne",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000385128
+ },
+ {
+   "id": 254,
+   "name": "Gorold Goodbrother",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00052173
+ },
+ {
+   "id": 255,
+   "name": "Grazdan mo Eraz",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000257173
+ },
+ {
+   "id": 256,
+   "name": "Grazhar",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0.0000376,
+   "pagerank": 0.000439397
+ },
+ {
+   "id": 257,
+   "name": "Greenbeard",
+   "degree": 7,
+   "peel": 6,
+   "diversity": 1.277034259,
+   "betweenness": 0.00000572,
+   "pagerank": 0.00072922
+ },
+ {
+   "id": 258,
+   "name": "Gregor Clegane",
+   "degree": 33,
+   "peel": 13,
+   "diversity": 1.662755842,
+   "betweenness": 0.005485884,
+   "pagerank": 0.004225564
+ },
+ {
+   "id": 259,
+   "name": "Grenn",
+   "degree": 15,
+   "peel": 8,
+   "diversity": 1.337860678,
+   "betweenness": 0.000474681,
+   "pagerank": 0.003203872
+ },
+ {
+   "id": 260,
+   "name": "Gretchel",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.039720771,
+   "betweenness": 0.000012,
+   "pagerank": 0.000552535
+ },
+ {
+   "id": 261,
+   "name": "Grey Worm",
+   "degree": 8,
+   "peel": 8,
+   "diversity": 0.73562194,
+   "betweenness": 0.0000326,
+   "pagerank": 0.00087105
+ },
+ {
+   "id": 262,
+   "name": "Greydon Goodbrother",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000290008
+ },
+ {
+   "id": 263,
+   "name": "Grigg",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0.00000106,
+   "pagerank": 0.000476586
+ },
+ {
+   "id": 264,
+   "name": "Grimtongue",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.001271235,
+   "pagerank": 0.000876535
+ },
+ {
+   "id": 265,
+   "name": "Grisel",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00021762
+ },
+ {
+   "id": 266,
+   "name": "Groleo",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.242453325,
+   "betweenness": 0.0000357,
+   "pagerank": 0.000603235
+ },
+ {
+   "id": 267,
+   "name": "Grunt",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000481448
+ },
+ {
+   "id": 268,
+   "name": "Guncer Sunglass",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000274918
+ },
+ {
+   "id": 269,
+   "name": "Gunthor son of Gurn",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000256429
+ },
+ {
+   "id": 270,
+   "name": "Guyard Morrigen",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000415617
+ },
+ {
+   "id": 271,
+   "name": "Gyles Grafton",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000529945
+ },
+ {
+   "id": 272,
+   "name": "Gyles Rosby",
+   "degree": 18,
+   "peel": 10,
+   "diversity": 1.923068868,
+   "betweenness": 0.000415441,
+   "pagerank": 0.001277748
+ },
+ {
+   "id": 273,
+   "name": "Gynir",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0.0000806,
+   "pagerank": 0.000512858
+ },
+ {
+   "id": 274,
+   "name": "Hagen",
+   "degree": 6,
+   "peel": 3,
+   "diversity": 0.867563228,
+   "betweenness": 0.001299751,
+   "pagerank": 0.000997847
+ },
+ {
+   "id": 275,
+   "name": "Haggo",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.329661349,
+   "betweenness": 0.00000312,
+   "pagerank": 0.000777584
+ },
+ {
+   "id": 276,
+   "name": "Haggon",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000437142
+ },
+ {
+   "id": 277,
+   "name": "Hairy Hal",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000451397
+ },
+ {
+   "id": 278,
+   "name": "Hake",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000232452
+ },
+ {
+   "id": 279,
+   "name": "Halder",
+   "degree": 8,
+   "peel": 5,
+   "diversity": 1.386294361,
+   "betweenness": 0.0000441,
+   "pagerank": 0.000931331
+ },
+ {
+   "id": 280,
+   "name": "Haldon",
+   "degree": 11,
+   "peel": 6,
+   "diversity": 1.641734712,
+   "betweenness": 0.000285338,
+   "pagerank": 0.001811175
+ },
+ {
+   "id": 281,
+   "name": "Hali",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000216665
+ },
+ {
+   "id": 282,
+   "name": "Hallis Mollen",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.329661349,
+   "betweenness": 0.000118024,
+   "pagerank": 0.000736982
+ },
+ {
+   "id": 283,
+   "name": "Hallyne",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000262194
+ },
+ {
+   "id": 284,
+   "name": "Halys Hornwood",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000222694
+ },
+ {
+   "id": 285,
+   "name": "Hareth (Moles Town)",
+   "degree": 11,
+   "peel": 5,
+   "diversity": 1.641734712,
+   "betweenness": 0.002203437,
+   "pagerank": 0.001266545
+ },
+ {
+   "id": 286,
+   "name": "Harl",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000308393
+ },
+ {
+   "id": 287,
+   "name": "Harma",
+   "degree": 8,
+   "peel": 6,
+   "diversity": 1.386294361,
+   "betweenness": 0.0000391,
+   "pagerank": 0.000718848
+ },
+ {
+   "id": 288,
+   "name": "Harra",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000367546
+ },
+ {
+   "id": 289,
+   "name": "Harras Harlaw",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000267817
+ },
+ {
+   "id": 290,
+   "name": "Harren Hoare",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0.0000767,
+   "pagerank": 0.000409919
+ },
+ {
+   "id": 291,
+   "name": "Harrold Hardyng",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0.00000845,
+   "pagerank": 0.000432205
+ },
+ {
+   "id": 292,
+   "name": "Harry Strickland",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 0.636514168,
+   "betweenness": 0.00000534,
+   "pagerank": 0.000640291
+ },
+ {
+   "id": 293,
+   "name": "Harwin",
+   "degree": 11,
+   "peel": 7,
+   "diversity": 1.798652206,
+   "betweenness": 0.000358115,
+   "pagerank": 0.001040526
+ },
+ {
+   "id": 294,
+   "name": "Harwood Stout",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000263933
+ },
+ {
+   "id": 295,
+   "name": "Harys Swyft",
+   "degree": 9,
+   "peel": 8,
+   "diversity": 1.214889654,
+   "betweenness": 0.0000829,
+   "pagerank": 0.000625421
+ },
+ {
+   "id": 296,
+   "name": "Hayhead",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000305517
+ },
+ {
+   "id": 297,
+   "name": "Helman Tallhart",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.386294361,
+   "betweenness": 0.000136037,
+   "pagerank": 0.000439299
+ },
+ {
+   "id": 298,
+   "name": "Hero",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.039720771,
+   "betweenness": 0,
+   "pagerank": 0.000484281
+ },
+ {
+   "id": 299,
+   "name": "Heward",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000316455
+ },
+ {
+   "id": 300,
+   "name": "High Septon (fat one)",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000299908
+ },
+ {
+   "id": 301,
+   "name": "High Septon (Tyrions)",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000410379
+ },
+ {
+   "id": 302,
+   "name": "High Sparrow",
+   "degree": 8,
+   "peel": 6,
+   "diversity": 1.906154747,
+   "betweenness": 0.0000377,
+   "pagerank": 0.000984155
+ },
+ {
+   "id": 303,
+   "name": "Hizdahr zo Loraq",
+   "degree": 22,
+   "peel": 8,
+   "diversity": 1.857200791,
+   "betweenness": 0.005928327,
+   "pagerank": 0.004349047
+ },
+ {
+   "id": 304,
+   "name": "Hobb",
+   "degree": 11,
+   "peel": 8,
+   "diversity": 1.120950393,
+   "betweenness": 0.000087,
+   "pagerank": 0.000773659
+ },
+ {
+   "id": 305,
+   "name": "Hobber Redwyne",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00064311
+ },
+ {
+   "id": 306,
+   "name": "Hodor",
+   "degree": 11,
+   "peel": 8,
+   "diversity": 1.641734712,
+   "betweenness": 0.000213484,
+   "pagerank": 0.003778806
+ },
+ {
+   "id": 307,
+   "name": "Holly",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.386294361,
+   "betweenness": 0.00000874,
+   "pagerank": 0.000664264
+ },
+ {
+   "id": 308,
+   "name": "Hop Robin",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000386465
+ },
+ {
+   "id": 309,
+   "name": "Horas Redwyne",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000759925
+ },
+ {
+   "id": 310,
+   "name": "Horton Redfort",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0,
+   "betweenness": 0.00000185,
+   "pagerank": 0.000687368
+ },
+ {
+   "id": 311,
+   "name": "Hosteen Frey",
+   "degree": 4,
+   "peel": 2,
+   "diversity": 1.039720771,
+   "betweenness": 0.000968636,
+   "pagerank": 0.000748541
+ },
+ {
+   "id": 312,
+   "name": "Hoster Blackwood",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000231221
+ },
+ {
+   "id": 313,
+   "name": "Hoster Tully",
+   "degree": 10,
+   "peel": 7,
+   "diversity": 1.609437912,
+   "betweenness": 0.000347545,
+   "pagerank": 0.001219369
+ },
+ {
+   "id": 314,
+   "name": "Hot Pie",
+   "degree": 11,
+   "peel": 6,
+   "diversity": 2.019814992,
+   "betweenness": 0.003040202,
+   "pagerank": 0.002656905
+ },
+ {
+   "id": 315,
+   "name": "Hother Umber",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.039720771,
+   "betweenness": 0.000043,
+   "pagerank": 0.000463209
+ },
+ {
+   "id": 316,
+   "name": "Hotho Harlaw",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.000591416,
+   "pagerank": 0.000735799
+ },
+ {
+   "id": 317,
+   "name": "Howland Reed",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000245938
+ },
+ {
+   "id": 318,
+   "name": "Hugh",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000220576
+ },
+ {
+   "id": 319,
+   "name": "Hugh Hungerford",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000424186
+ },
+ {
+   "id": 320,
+   "name": "Hugo Vance",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000220526
+ },
+ {
+   "id": 321,
+   "name": "Hullen",
+   "degree": 6,
+   "peel": 6,
+   "diversity": 1.242453325,
+   "betweenness": 0.0000465,
+   "pagerank": 0.000404489
+ },
+ {
+   "id": 322,
+   "name": "Humfrey Hewett",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000366511
+ },
+ {
+   "id": 323,
+   "name": "Husband",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000279971
+ },
+ {
+   "id": 324,
+   "name": "Hyle Hunt",
+   "degree": 7,
+   "peel": 6,
+   "diversity": 1.153741943,
+   "betweenness": 0.000285899,
+   "pagerank": 0.000925346
+ },
+ {
+   "id": 325,
+   "name": "Illifer",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000667861
+ },
+ {
+   "id": 326,
+   "name": "Illyrio Mopatis",
+   "degree": 12,
+   "peel": 8,
+   "diversity": 1.424129917,
+   "betweenness": 0.001202512,
+   "pagerank": 0.001720713
+ },
+ {
+   "id": 327,
+   "name": "Ilyn Payne",
+   "degree": 22,
+   "peel": 12,
+   "diversity": 1.116485597,
+   "betweenness": 0.0008953,
+   "pagerank": 0.002676977
+ },
+ {
+   "id": 328,
+   "name": "Imry Florent",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000229955
+ },
+ {
+   "id": 329,
+   "name": "Irri",
+   "degree": 15,
+   "peel": 8,
+   "diversity": 0.720124881,
+   "betweenness": 0.000992876,
+   "pagerank": 0.002759077
+ },
+ {
+   "id": 330,
+   "name": "Jacelyn Bywater",
+   "degree": 9,
+   "peel": 9,
+   "diversity": 1.427061043,
+   "betweenness": 0.0000152,
+   "pagerank": 0.000706275
+ },
+ {
+   "id": 331,
+   "name": "Jack Be Lucky",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000251953
+ },
+ {
+   "id": 332,
+   "name": "Jack Bulwer",
+   "degree": 5,
+   "peel": 3,
+   "diversity": 1.33217904,
+   "betweenness": 0.000153222,
+   "pagerank": 0.000566664
+ },
+ {
+   "id": 333,
+   "name": "Jacks",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000227473
+ },
+ {
+   "id": 334,
+   "name": "Jaehaerys I Targaryen",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000255911
+ },
+ {
+   "id": 335,
+   "name": "Jafer Flowers",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000249044
+ },
+ {
+   "id": 336,
+   "name": "Jaime Lannister",
+   "degree": 101,
+   "peel": 13,
+   "diversity": 2.398059966,
+   "betweenness": 0.100838006,
+   "pagerank": 0.01975355
+ },
+ {
+   "id": 337,
+   "name": "Jalabhar Xho",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.33217904,
+   "betweenness": 0.00080684,
+   "pagerank": 0.000481371
+ },
+ {
+   "id": 338,
+   "name": "Janos Slynt",
+   "degree": 23,
+   "peel": 11,
+   "diversity": 1.274586732,
+   "betweenness": 0.007182702,
+   "pagerank": 0.002285066
+ },
+ {
+   "id": 339,
+   "name": "Jaqen Hghar",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.329661349,
+   "betweenness": 0.0000281,
+   "pagerank": 0.000982349
+ },
+ {
+   "id": 340,
+   "name": "Jared Frey",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0.00000607,
+   "pagerank": 0.00062169
+ },
+ {
+   "id": 341,
+   "name": "Jaremy Rykker",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.609437912,
+   "betweenness": 0.002518575,
+   "pagerank": 0.000713031
+ },
+ {
+   "id": 342,
+   "name": "Jarl",
+   "degree": 8,
+   "peel": 6,
+   "diversity": 1.073542846,
+   "betweenness": 0.0000207,
+   "pagerank": 0.001029757
+ },
+ {
+   "id": 343,
+   "name": "Jarman Buckwell",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000380445
+ },
+ {
+   "id": 344,
+   "name": "Jason Mallister",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0.0000651,
+   "pagerank": 0.000365624
+ },
+ {
+   "id": 345,
+   "name": "Jeor Mormont",
+   "degree": 28,
+   "peel": 8,
+   "diversity": 1.925892175,
+   "betweenness": 0.017268244,
+   "pagerank": 0.006136861
+ },
+ {
+   "id": 346,
+   "name": "Jeyne Farman",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00033889
+ },
+ {
+   "id": 347,
+   "name": "Jeyne Heddle",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000236456
+ },
+ {
+   "id": 348,
+   "name": "Jeyne Poole",
+   "degree": 13,
+   "peel": 9,
+   "diversity": 1.778233306,
+   "betweenness": 0.001726905,
+   "pagerank": 0.001625258
+ },
+ {
+   "id": 349,
+   "name": "Jeyne Westerling",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.33217904,
+   "betweenness": 0.001015193,
+   "pagerank": 0.000823548
+ },
+ {
+   "id": 350,
+   "name": "Jhiqui",
+   "degree": 12,
+   "peel": 8,
+   "diversity": 0.721463687,
+   "betweenness": 0.0000718,
+   "pagerank": 0.002276592
+ },
+ {
+   "id": 351,
+   "name": "Jhogo",
+   "degree": 12,
+   "peel": 8,
+   "diversity": 1.234267866,
+   "betweenness": 0.000165397,
+   "pagerank": 0.001771561
+ },
+ {
+   "id": 352,
+   "name": "Joanna Lannister",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000226091
+ },
+ {
+   "id": 353,
+   "name": "Jocelyn Swyft",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 1.609437912,
+   "betweenness": 0.00000183,
+   "pagerank": 0.000505047
+ },
+ {
+   "id": 354,
+   "name": "Joffrey Baratheon",
+   "degree": 69,
+   "peel": 13,
+   "diversity": 2.108929177,
+   "betweenness": 0.031758722,
+   "pagerank": 0.017420084
+ },
+ {
+   "id": 355,
+   "name": "Jojen Reed",
+   "degree": 10,
+   "peel": 8,
+   "diversity": 1.088899975,
+   "betweenness": 0.000271599,
+   "pagerank": 0.00263205
+ },
+ {
+   "id": 356,
+   "name": "Jommo",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000329759
+ },
+ {
+   "id": 357,
+   "name": "Jon Arryn",
+   "degree": 17,
+   "peel": 12,
+   "diversity": 1.203332041,
+   "betweenness": 0.008811733,
+   "pagerank": 0.002508965
+ },
+ {
+   "id": 358,
+   "name": "Jon Connington",
+   "degree": 16,
+   "peel": 7,
+   "diversity": 1.78680834,
+   "betweenness": 0.012689827,
+   "pagerank": 0.002603882
+ },
+ {
+   "id": 359,
+   "name": "Jon Fossoway",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000245536
+ },
+ {
+   "id": 360,
+   "name": "Jon Snow",
+   "degree": 114,
+   "peel": 12,
+   "diversity": 2.277964323,
+   "betweenness": 0.19211962,
+   "pagerank": 0.035693765
+ },
+ {
+   "id": 361,
+   "name": "Jon Umber (Greatjon)",
+   "degree": 14,
+   "peel": 8,
+   "diversity": 1.932806573,
+   "betweenness": 0.001360964,
+   "pagerank": 0.001593452
+ },
+ {
+   "id": 362,
+   "name": "Jon Umber (Smalljon)",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000293296
+ },
+ {
+   "id": 363,
+   "name": "Jonos Bracken",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.00034895
+ },
+ {
+   "id": 364,
+   "name": "Jonothor Darry",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000554972
+ },
+ {
+   "id": 365,
+   "name": "Jonquil",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000683271
+ },
+ {
+   "id": 366,
+   "name": "Jorah Mormont",
+   "degree": 26,
+   "peel": 8,
+   "diversity": 1.655707776,
+   "betweenness": 0.010826778,
+   "pagerank": 0.004940556
+ },
+ {
+   "id": 367,
+   "name": "Joramun",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000300797
+ },
+ {
+   "id": 368,
+   "name": "Jory Cassel",
+   "degree": 21,
+   "peel": 12,
+   "diversity": 1.68185408,
+   "betweenness": 0.0048781,
+   "pagerank": 0.002033503
+ },
+ {
+   "id": 369,
+   "name": "Joseth",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000254404
+ },
+ {
+   "id": 370,
+   "name": "Josmyn Peckledon",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.00047755
+ },
+ {
+   "id": 371,
+   "name": "Joss",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00023723
+ },
+ {
+   "id": 372,
+   "name": "Joy Hill",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000220526
+ },
+ {
+   "id": 373,
+   "name": "Justin Massey",
+   "degree": 5,
+   "peel": 3,
+   "diversity": 1.33217904,
+   "betweenness": 0.000048,
+   "pagerank": 0.000994606
+ },
+ {
+   "id": 374,
+   "name": "Jyck",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.00041563
+ },
+ {
+   "id": 375,
+   "name": "Karyl Vance",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.386294361,
+   "betweenness": 0.0000209,
+   "pagerank": 0.000480061
+ },
+ {
+   "id": 376,
+   "name": "Kasporio",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000327866
+ },
+ {
+   "id": 377,
+   "name": "Kedry",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000303343
+ },
+ {
+   "id": 378,
+   "name": "Kegs",
+   "degree": 7,
+   "peel": 5,
+   "diversity": 1.351783994,
+   "betweenness": 0.00000987,
+   "pagerank": 0.000584785
+ },
+ {
+   "id": 379,
+   "name": "Kella",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000215275
+ },
+ {
+   "id": 380,
+   "name": "Kerwin",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00050594
+ },
+ {
+   "id": 381,
+   "name": "Kevan Lannister",
+   "degree": 17,
+   "peel": 11,
+   "diversity": 1.506883349,
+   "betweenness": 0.001893308,
+   "pagerank": 0.002255223
+ },
+ {
+   "id": 382,
+   "name": "Khorane Sathmantes",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000331911
+ },
+ {
+   "id": 383,
+   "name": "Khrazz",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.33217904,
+   "betweenness": 0.000747583,
+   "pagerank": 0.000713687
+ },
+ {
+   "id": 384,
+   "name": "Kindly Man",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.00057841
+ },
+ {
+   "id": 385,
+   "name": "Kojja Mo",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000349181
+ },
+ {
+   "id": 386,
+   "name": "Koss",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000279078
+ },
+ {
+   "id": 387,
+   "name": "Kraznys mo Nakloz",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000414261
+ },
+ {
+   "id": 388,
+   "name": "Kurleket",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000237004
+ },
+ {
+   "id": 389,
+   "name": "Kurz",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000570494
+ },
+ {
+   "id": 390,
+   "name": "Kyra",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000248835
+ },
+ {
+   "id": 391,
+   "name": "Lambert Turnberry",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0,
+   "betweenness": 0.00000106,
+   "pagerank": 0.000397737
+ },
+ {
+   "id": 392,
+   "name": "Lamprey",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.00000106,
+   "pagerank": 0.000484811
+ },
+ {
+   "id": 393,
+   "name": "Lancel Lannister",
+   "degree": 12,
+   "peel": 9,
+   "diversity": 1.234267866,
+   "betweenness": 0.000520242,
+   "pagerank": 0.001715529
+ },
+ {
+   "id": 394,
+   "name": "Lanna (Happy Port)",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000248134
+ },
+ {
+   "id": 395,
+   "name": "Lark",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.329661349,
+   "betweenness": 0.002588977,
+   "pagerank": 0.000761442
+ },
+ {
+   "id": 396,
+   "name": "Larraq",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00022139
+ },
+ {
+   "id": 397,
+   "name": "Leaf",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000286834
+ },
+ {
+   "id": 398,
+   "name": "Leathers",
+   "degree": 5,
+   "peel": 3,
+   "diversity": 1.33217904,
+   "betweenness": 0.0000227,
+   "pagerank": 0.000717899
+ },
+ {
+   "id": 399,
+   "name": "Lem",
+   "degree": 15,
+   "peel": 7,
+   "diversity": 1.859428815,
+   "betweenness": 0.005932663,
+   "pagerank": 0.002317313
+ },
+ {
+   "id": 400,
+   "name": "Lemore",
+   "degree": 7,
+   "peel": 6,
+   "diversity": 0.955699891,
+   "betweenness": 0.00000204,
+   "pagerank": 0.000825797
+ },
+ {
+   "id": 401,
+   "name": "Leo Lefford",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000227292
+ },
+ {
+   "id": 402,
+   "name": "Leo Tyrell",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 0.500402424,
+   "betweenness": 0.005207007,
+   "pagerank": 0.001036994
+ },
+ {
+   "id": 403,
+   "name": "Leobald Tallhart",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0.0000205,
+   "pagerank": 0.000399025
+ },
+ {
+   "id": 404,
+   "name": "Leona Woolfield",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.00029457
+ },
+ {
+   "id": 405,
+   "name": "Leonette Fossoway",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000232809
+ },
+ {
+   "id": 406,
+   "name": "Lewyn Martell",
+   "degree": 4,
+   "peel": 2,
+   "diversity": 1.039720771,
+   "betweenness": 0.001318426,
+   "pagerank": 0.000813275
+ },
+ {
+   "id": 407,
+   "name": "Lewys Piper",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000220526
+ },
+ {
+   "id": 408,
+   "name": "Lollys Stokeworth",
+   "degree": 7,
+   "peel": 6,
+   "diversity": 1.549826046,
+   "betweenness": 0.0000117,
+   "pagerank": 0.000771718
+ },
+ {
+   "id": 409,
+   "name": "Lommy Greenhands",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.560710409,
+   "betweenness": 0.0000111,
+   "pagerank": 0.001369274
+ },
+ {
+   "id": 410,
+   "name": "Longwater Pyke",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000267817
+ },
+ {
+   "id": 411,
+   "name": "Loras Tyrell",
+   "degree": 28,
+   "peel": 13,
+   "diversity": 1.558057246,
+   "betweenness": 0.001442737,
+   "pagerank": 0.003420664
+ },
+ {
+   "id": 412,
+   "name": "Lorent Caswell",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000218098
+ },
+ {
+   "id": 413,
+   "name": "Lorren",
+   "degree": 8,
+   "peel": 3,
+   "diversity": 1.255482325,
+   "betweenness": 0.003753628,
+   "pagerank": 0.00145556
+ },
+ {
+   "id": 414,
+   "name": "Lothar Frey",
+   "degree": 11,
+   "peel": 7,
+   "diversity": 1.893788232,
+   "betweenness": 0.000277633,
+   "pagerank": 0.000873458
+ },
+ {
+   "id": 415,
+   "name": "Lothor Brune",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.33217904,
+   "betweenness": 0.0000454,
+   "pagerank": 0.000544936
+ },
+ {
+   "id": 416,
+   "name": "Lucas Codd",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000791631
+ },
+ {
+   "id": 417,
+   "name": "Lucifer Long",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00027739
+ },
+ {
+   "id": 418,
+   "name": "Luton",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000279018
+ },
+ {
+   "id": 419,
+   "name": "Luwin",
+   "degree": 22,
+   "peel": 10,
+   "diversity": 1.957615479,
+   "betweenness": 0.003151405,
+   "pagerank": 0.004179481
+ },
+ {
+   "id": 420,
+   "name": "Lyanna Mormont",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000221924
+ },
+ {
+   "id": 421,
+   "name": "Lyanna Stark",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 0.950270539,
+   "betweenness": 0.0000115,
+   "pagerank": 0.000583469
+ },
+ {
+   "id": 422,
+   "name": "Lyle Crakehall",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.33217904,
+   "betweenness": 0.00000904,
+   "pagerank": 0.000497301
+ },
+ {
+   "id": 423,
+   "name": "Lyn Corbray",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.386294361,
+   "betweenness": 0.000021,
+   "pagerank": 0.000497425
+ },
+ {
+   "id": 424,
+   "name": "Lynesse Hightower",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000223827
+ },
+ {
+   "id": 425,
+   "name": "Lyonel Corbray",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000317103
+ },
+ {
+   "id": 426,
+   "name": "Lysa Arryn",
+   "degree": 24,
+   "peel": 12,
+   "diversity": 1.710642901,
+   "betweenness": 0.006064574,
+   "pagerank": 0.003950672
+ },
+ {
+   "id": 427,
+   "name": "Lysono Maar",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000223827
+ },
+ {
+   "id": 428,
+   "name": "Mace Tyrell",
+   "degree": 23,
+   "peel": 12,
+   "diversity": 1.893275591,
+   "betweenness": 0.005881332,
+   "pagerank": 0.002386206
+ },
+ {
+   "id": 429,
+   "name": "Mad Huntsman",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000231597
+ },
+ {
+   "id": 430,
+   "name": "Maddy",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 0.950270539,
+   "betweenness": 0.0000367,
+   "pagerank": 0.000684088
+ },
+ {
+   "id": 431,
+   "name": "Maege Mormont",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.054920168,
+   "betweenness": 0.00000401,
+   "pagerank": 0.000540965
+ },
+ {
+   "id": 432,
+   "name": "Maegor I Targaryen",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.242453325,
+   "betweenness": 0.00253038,
+   "pagerank": 0.000582325
+ },
+ {
+   "id": 433,
+   "name": "Maekar I Targaryen",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000222095
+ },
+ {
+   "id": 434,
+   "name": "Mag Mar Tun Doh Weg",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000295555
+ },
+ {
+   "id": 435,
+   "name": "Maggy",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000346189
+ },
+ {
+   "id": 436,
+   "name": "Malaquo Maegyr",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000660519
+ },
+ {
+   "id": 437,
+   "name": "Malegorn",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.000350894,
+   "pagerank": 0.00054851
+ },
+ {
+   "id": 438,
+   "name": "Mallador Locke",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000258368
+ },
+ {
+   "id": 439,
+   "name": "Mance Rayder",
+   "degree": 33,
+   "peel": 8,
+   "diversity": 1.931601912,
+   "betweenness": 0.013605084,
+   "pagerank": 0.00514145
+ },
+ {
+   "id": 440,
+   "name": "Mandon Moore",
+   "degree": 9,
+   "peel": 9,
+   "diversity": 0.683738906,
+   "betweenness": 0.0000231,
+   "pagerank": 0.000725772
+ },
+ {
+   "id": 441,
+   "name": "Manfrey Martell",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000521197
+ },
+ {
+   "id": 442,
+   "name": "Margaery Tyrell",
+   "degree": 30,
+   "peel": 12,
+   "diversity": 1.995750869,
+   "betweenness": 0.004545928,
+   "pagerank": 0.004678732
+ },
+ {
+   "id": 443,
+   "name": "Marghaz zo Loraq",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000251769
+ },
+ {
+   "id": 444,
+   "name": "Marillion",
+   "degree": 9,
+   "peel": 8,
+   "diversity": 1.427061043,
+   "betweenness": 0.0000837,
+   "pagerank": 0.000853962
+ },
+ {
+   "id": 445,
+   "name": "Mariya Darry",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000305805
+ },
+ {
+   "id": 446,
+   "name": "Mark Mullendore",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000215389
+ },
+ {
+   "id": 447,
+   "name": "Marlon Manderly",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000291112
+ },
+ {
+   "id": 448,
+   "name": "Maron Greyjoy",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000217715
+ },
+ {
+   "id": 449,
+   "name": "Marq Piper",
+   "degree": 8,
+   "peel": 7,
+   "diversity": 1.073542846,
+   "betweenness": 0.000177945,
+   "pagerank": 0.000573616
+ },
+ {
+   "id": 450,
+   "name": "Marselen",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000408268
+ },
+ {
+   "id": 451,
+   "name": "Martyn Lannister",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0.0000311,
+   "pagerank": 0.000350362
+ },
+ {
+   "id": 452,
+   "name": "Martyn Rivers",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000219491
+ },
+ {
+   "id": 453,
+   "name": "Marwyn",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0.000561925,
+   "pagerank": 0.00046376
+ },
+ {
+   "id": 454,
+   "name": "Marya Seaworth",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000383786
+ },
+ {
+   "id": 455,
+   "name": "Masha Heddle",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000240975
+ },
+ {
+   "id": 456,
+   "name": "Mathis Rowan",
+   "degree": 8,
+   "peel": 6,
+   "diversity": 1.494175138,
+   "betweenness": 0.002588277,
+   "pagerank": 0.00078388
+ },
+ {
+   "id": 457,
+   "name": "Matthar",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00022145
+ },
+ {
+   "id": 458,
+   "name": "Matthos Seaworth",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000229955
+ },
+ {
+   "id": 459,
+   "name": "Mebble",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000234778
+ },
+ {
+   "id": 460,
+   "name": "Meera Reed",
+   "degree": 11,
+   "peel": 8,
+   "diversity": 1.414279065,
+   "betweenness": 0.000301138,
+   "pagerank": 0.002933076
+ },
+ {
+   "id": 461,
+   "name": "Megga Tyrell",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.039720771,
+   "betweenness": 0,
+   "pagerank": 0.000842091
+ },
+ {
+   "id": 462,
+   "name": "Melara Hetherspoon",
+   "degree": 4,
+   "peel": 2,
+   "diversity": 1.039720771,
+   "betweenness": 0.002586857,
+   "pagerank": 0.000663734
+ },
+ {
+   "id": 463,
+   "name": "Meldred Merlyn",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000445556
+ },
+ {
+   "id": 464,
+   "name": "Melisandre",
+   "degree": 23,
+   "peel": 8,
+   "diversity": 2.088091943,
+   "betweenness": 0.006490368,
+   "pagerank": 0.004323498
+ },
+ {
+   "id": 465,
+   "name": "Mellei",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000512378
+ },
+ {
+   "id": 466,
+   "name": "Meralyn",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000285541
+ },
+ {
+   "id": 467,
+   "name": "Meribald",
+   "degree": 5,
+   "peel": 3,
+   "diversity": 1.054920168,
+   "betweenness": 0.0000166,
+   "pagerank": 0.00087892
+ },
+ {
+   "id": 468,
+   "name": "Meris",
+   "degree": 6,
+   "peel": 4,
+   "diversity": 1.242453325,
+   "betweenness": 0.003065646,
+   "pagerank": 0.001177615
+ },
+ {
+   "id": 469,
+   "name": "Mero",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.386294361,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000646844
+ },
+ {
+   "id": 470,
+   "name": "Merrett Frey",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0.00000877,
+   "pagerank": 0.000262151
+ },
+ {
+   "id": 471,
+   "name": "Merrit",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000224475
+ },
+ {
+   "id": 472,
+   "name": "Meryn Trant",
+   "degree": 21,
+   "peel": 12,
+   "diversity": 1.153741943,
+   "betweenness": 0.00094058,
+   "pagerank": 0.002872904
+ },
+ {
+   "id": 473,
+   "name": "Mezzara",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000332411
+ },
+ {
+   "id": 474,
+   "name": "Mikken",
+   "degree": 5,
+   "peel": 3,
+   "diversity": 1.33217904,
+   "betweenness": 0.000236052,
+   "pagerank": 0.00058564
+ },
+ {
+   "id": 475,
+   "name": "Miklaz",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 1.098612289,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000655193
+ },
+ {
+   "id": 476,
+   "name": "Mirri Maz Duur",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.011404265,
+   "betweenness": 0.00000963,
+   "pagerank": 0.000987082
+ },
+ {
+   "id": 477,
+   "name": "Missandei",
+   "degree": 9,
+   "peel": 8,
+   "diversity": 1.002718265,
+   "betweenness": 0.0000963,
+   "pagerank": 0.001586885
+ },
+ {
+   "id": 478,
+   "name": "Moelle",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.00063156
+ },
+ {
+   "id": 479,
+   "name": "Mollander",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0,
+   "betweenness": 0.00000396,
+   "pagerank": 0.000934248
+ },
+ {
+   "id": 480,
+   "name": "Monford Velaryon",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 1.098612289,
+   "betweenness": 0.002515723,
+   "pagerank": 0.00063116
+ },
+ {
+   "id": 481,
+   "name": "Moon Boy",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.386294361,
+   "betweenness": 0.0000093,
+   "pagerank": 0.000526634
+ },
+ {
+   "id": 482,
+   "name": "Moqorro",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.609437912,
+   "betweenness": 0.002409717,
+   "pagerank": 0.001073681
+ },
+ {
+   "id": 483,
+   "name": "Mord",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000382691
+ },
+ {
+   "id": 484,
+   "name": "Mordane",
+   "degree": 11,
+   "peel": 10,
+   "diversity": 1.033562054,
+   "betweenness": 0.000477052,
+   "pagerank": 0.001621421
+ },
+ {
+   "id": 485,
+   "name": "Moreo Tumitis",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000219962
+ },
+ {
+   "id": 486,
+   "name": "Morgo",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000227292
+ },
+ {
+   "id": 487,
+   "name": "Morra",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000512378
+ },
+ {
+   "id": 488,
+   "name": "Morrec",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000397546
+ },
+ {
+   "id": 489,
+   "name": "Mors Umber",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0.562335145,
+   "betweenness": 0.000238248,
+   "pagerank": 0.000518088
+ },
+ {
+   "id": 490,
+   "name": "Mully",
+   "degree": 9,
+   "peel": 6,
+   "diversity": 1.522955068,
+   "betweenness": 0.0000374,
+   "pagerank": 0.00086889
+ },
+ {
+   "id": 491,
+   "name": "Munda",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000239738
+ },
+ {
+   "id": 492,
+   "name": "Murch",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000745047
+ },
+ {
+   "id": 493,
+   "name": "Murenmure",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000513042
+ },
+ {
+   "id": 494,
+   "name": "Mya Stone",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.33217904,
+   "betweenness": 0.000108766,
+   "pagerank": 0.000739087
+ },
+ {
+   "id": 495,
+   "name": "Mycah",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000805042
+ },
+ {
+   "id": 496,
+   "name": "Mychel Redfort",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000219962
+ },
+ {
+   "id": 497,
+   "name": "Myles Toyne",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000376496
+ },
+ {
+   "id": 498,
+   "name": "Myranda Royce",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0.0000221,
+   "pagerank": 0.000383831
+ },
+ {
+   "id": 499,
+   "name": "Myrcella Baratheon",
+   "degree": 22,
+   "peel": 11,
+   "diversity": 1.790313567,
+   "betweenness": 0.020192887,
+   "pagerank": 0.003252601
+ },
+ {
+   "id": 500,
+   "name": "Nage",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000243613
+ },
+ {
+   "id": 501,
+   "name": "Nan",
+   "degree": 8,
+   "peel": 6,
+   "diversity": 1.732867951,
+   "betweenness": 0.000714461,
+   "pagerank": 0.001172386
+ },
+ {
+   "id": 502,
+   "name": "Narbert",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000445231
+ },
+ {
+   "id": 503,
+   "name": "Narbert Grandison",
+   "degree": 6,
+   "peel": 3,
+   "diversity": 1.242453325,
+   "betweenness": 0.000812272,
+   "pagerank": 0.00068425
+ },
+ {
+   "id": 504,
+   "name": "Nestor Royce",
+   "degree": 7,
+   "peel": 6,
+   "diversity": 1.475076311,
+   "betweenness": 0.0000773,
+   "pagerank": 0.000805248
+ },
+ {
+   "id": 505,
+   "name": "Nurse",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.386294361,
+   "betweenness": 0.0000129,
+   "pagerank": 0.000536213
+ },
+ {
+   "id": 506,
+   "name": "Nute",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.00000898,
+   "pagerank": 0.000926631
+ },
+ {
+   "id": 507,
+   "name": "Nyessos Vhassar",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000789027
+ },
+ {
+   "id": 508,
+   "name": "Nymeria Sand",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.039720771,
+   "betweenness": 0.0000181,
+   "pagerank": 0.000856141
+ },
+ {
+   "id": 509,
+   "name": "Obara Sand",
+   "degree": 6,
+   "peel": 4,
+   "diversity": 1.329661349,
+   "betweenness": 0.0000249,
+   "pagerank": 0.001299752
+ },
+ {
+   "id": 510,
+   "name": "Oberyn Martell",
+   "degree": 20,
+   "peel": 10,
+   "diversity": 1.941927724,
+   "betweenness": 0.009803338,
+   "pagerank": 0.002351696
+ },
+ {
+   "id": 511,
+   "name": "Ogo",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 1.098612289,
+   "betweenness": 0.002515723,
+   "pagerank": 0.00074093
+ },
+ {
+   "id": 512,
+   "name": "Old Bill Bone",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000233822
+ },
+ {
+   "id": 513,
+   "name": "Olenna Redwyne",
+   "degree": 9,
+   "peel": 8,
+   "diversity": 0.848685558,
+   "betweenness": 0.000292522,
+   "pagerank": 0.000756117
+ },
+ {
+   "id": 514,
+   "name": "Olyvar Frey",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000372516
+ },
+ {
+   "id": 515,
+   "name": "Orell",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.00029155
+ },
+ {
+   "id": 516,
+   "name": "Orton Merryweather",
+   "degree": 10,
+   "peel": 8,
+   "diversity": 1.279854226,
+   "betweenness": 0.0000814,
+   "pagerank": 0.000620349
+ },
+ {
+   "id": 517,
+   "name": "Osfryd Kettleblack",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000420289
+ },
+ {
+   "id": 518,
+   "name": "Osha",
+   "degree": 9,
+   "peel": 8,
+   "diversity": 1.522955068,
+   "betweenness": 0.0002196,
+   "pagerank": 0.001322379
+ },
+ {
+   "id": 519,
+   "name": "Osmund Kettleblack",
+   "degree": 18,
+   "peel": 11,
+   "diversity": 1.873510521,
+   "betweenness": 0.000670672,
+   "pagerank": 0.002282676
+ },
+ {
+   "id": 520,
+   "name": "Osney Kettleblack",
+   "degree": 11,
+   "peel": 7,
+   "diversity": 2.019814992,
+   "betweenness": 0.000488439,
+   "pagerank": 0.001026739
+ },
+ {
+   "id": 521,
+   "name": "Oswell Kettleblack",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000272067
+ },
+ {
+   "id": 522,
+   "name": "Oswell Whent",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 0.636514168,
+   "betweenness": 0.001200188,
+   "pagerank": 0.000680536
+ },
+ {
+   "id": 523,
+   "name": "Othell Yarwyck",
+   "degree": 11,
+   "peel": 8,
+   "diversity": 1.159588814,
+   "betweenness": 0.0000731,
+   "pagerank": 0.001165994
+ },
+ {
+   "id": 524,
+   "name": "Othor",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000243455
+ },
+ {
+   "id": 525,
+   "name": "Ottyn Wythers",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.039720771,
+   "betweenness": 0.0000179,
+   "pagerank": 0.000391081
+ },
+ {
+   "id": 526,
+   "name": "Owen",
+   "degree": 10,
+   "peel": 6,
+   "diversity": 1.470808476,
+   "betweenness": 0.000804616,
+   "pagerank": 0.000895542
+ },
+ {
+   "id": 527,
+   "name": "Owen Merryweather",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000228186
+ },
+ {
+   "id": 528,
+   "name": "Oznak zo Pahl",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000327679
+ },
+ {
+   "id": 529,
+   "name": "Palla",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.0002796
+ },
+ {
+   "id": 530,
+   "name": "Patchface",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0.562335145,
+   "betweenness": 0,
+   "pagerank": 0.000489713
+ },
+ {
+   "id": 531,
+   "name": "Pate (novice)",
+   "degree": 7,
+   "peel": 4,
+   "diversity": 0.682908105,
+   "betweenness": 0.010041506,
+   "pagerank": 0.002498661
+ },
+ {
+   "id": 532,
+   "name": "Pate (Old)",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000231597
+ },
+ {
+   "id": 533,
+   "name": "Pate (whipping boy)",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000223331
+ },
+ {
+   "id": 534,
+   "name": "Patrek of Kings Mountain",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.00000106,
+   "pagerank": 0.000480282
+ },
+ {
+   "id": 535,
+   "name": "Paxter Redwyne",
+   "degree": 6,
+   "peel": 6,
+   "diversity": 1.329661349,
+   "betweenness": 0.000772814,
+   "pagerank": 0.000604391
+ },
+ {
+   "id": 536,
+   "name": "Penny",
+   "degree": 7,
+   "peel": 4,
+   "diversity": 1.475076311,
+   "betweenness": 0.000279064,
+   "pagerank": 0.001225714
+ },
+ {
+   "id": 537,
+   "name": "Perwyn Frey",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000324745
+ },
+ {
+   "id": 538,
+   "name": "Petyr Baelish",
+   "degree": 47,
+   "peel": 13,
+   "diversity": 1.984776869,
+   "betweenness": 0.025898583,
+   "pagerank": 0.008391054
+ },
+ {
+   "id": 539,
+   "name": "Petyr Frey",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0.00000106,
+   "pagerank": 0.000294765
+ },
+ {
+   "id": 540,
+   "name": "Pia",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.000130851,
+   "pagerank": 0.000463067
+ },
+ {
+   "id": 541,
+   "name": "Podrick Payne",
+   "degree": 11,
+   "peel": 6,
+   "diversity": 1.666332585,
+   "betweenness": 0.003390512,
+   "pagerank": 0.002239123
+ },
+ {
+   "id": 542,
+   "name": "Polliver",
+   "degree": 14,
+   "peel": 12,
+   "diversity": 0.89820534,
+   "betweenness": 0.0000896,
+   "pagerank": 0.001543562
+ },
+ {
+   "id": 543,
+   "name": "Pono",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.039720771,
+   "betweenness": 0.0000484,
+   "pagerank": 0.000349678
+ },
+ {
+   "id": 544,
+   "name": "Porridge",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000402686
+ },
+ {
+   "id": 545,
+   "name": "Porther",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000227473
+ },
+ {
+   "id": 546,
+   "name": "Poxy Tym",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000216665
+ },
+ {
+   "id": 547,
+   "name": "Praed",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000220809
+ },
+ {
+   "id": 548,
+   "name": "Prendahl na Ghezn",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000518784
+ },
+ {
+   "id": 549,
+   "name": "Preston Greenfield",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000244527
+ },
+ {
+   "id": 550,
+   "name": "Puckens",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000590127
+ },
+ {
+   "id": 551,
+   "name": "Pyat Pree",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000503741
+ },
+ {
+   "id": 552,
+   "name": "Pycelle",
+   "degree": 27,
+   "peel": 13,
+   "diversity": 1.591968682,
+   "betweenness": 0.007406401,
+   "pagerank": 0.003931511
+ },
+ {
+   "id": 553,
+   "name": "Pyg",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.039720771,
+   "betweenness": 0.00000285,
+   "pagerank": 0.000579416
+ },
+ {
+   "id": 554,
+   "name": "Pylos",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.011404265,
+   "betweenness": 0.00000391,
+   "pagerank": 0.001241409
+ },
+ {
+   "id": 555,
+   "name": "Pypar",
+   "degree": 16,
+   "peel": 8,
+   "diversity": 1.244016696,
+   "betweenness": 0.000234447,
+   "pagerank": 0.002813027
+ },
+ {
+   "id": 556,
+   "name": "Qarl the Maid",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000617043
+ },
+ {
+   "id": 557,
+   "name": "Qavo Nogarys",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0.0000288,
+   "pagerank": 0.000362687
+ },
+ {
+   "id": 558,
+   "name": "Qezza",
+   "degree": 5,
+   "peel": 3,
+   "diversity": 1.33217904,
+   "betweenness": 0.000106433,
+   "pagerank": 0.000796912
+ },
+ {
+   "id": 559,
+   "name": "Qhorin Halfhand",
+   "degree": 14,
+   "peel": 6,
+   "diversity": 1.673118363,
+   "betweenness": 0.002814466,
+   "pagerank": 0.00237447
+ },
+ {
+   "id": 560,
+   "name": "Qotho",
+   "degree": 7,
+   "peel": 5,
+   "diversity": 1.277034259,
+   "betweenness": 0.0000297,
+   "pagerank": 0.001078742
+ },
+ {
+   "id": 561,
+   "name": "Quaithe",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000318185
+ },
+ {
+   "id": 562,
+   "name": "Quaro",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 0.950270539,
+   "betweenness": 0.00000143,
+   "pagerank": 0.000445212
+ },
+ {
+   "id": 563,
+   "name": "Quellon Greyjoy",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000366511
+ },
+ {
+   "id": 564,
+   "name": "Quentyn Martell",
+   "degree": 19,
+   "peel": 7,
+   "diversity": 1.721954449,
+   "betweenness": 0.011349668,
+   "pagerank": 0.00437337
+ },
+ {
+   "id": 565,
+   "name": "Quhuru Mo",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000311279
+ },
+ {
+   "id": 566,
+   "name": "Quill",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000370303
+ },
+ {
+   "id": 567,
+   "name": "Qyburn",
+   "degree": 18,
+   "peel": 10,
+   "diversity": 1.719477814,
+   "betweenness": 0.001700923,
+   "pagerank": 0.001629493
+ },
+ {
+   "id": 568,
+   "name": "Rafford",
+   "degree": 13,
+   "peel": 12,
+   "diversity": 0.690185676,
+   "betweenness": 0.0000465,
+   "pagerank": 0.00171038
+ },
+ {
+   "id": 569,
+   "name": "Ragwyle",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000224916
+ },
+ {
+   "id": 570,
+   "name": "Rakharo",
+   "degree": 10,
+   "peel": 8,
+   "diversity": 0.801818553,
+   "betweenness": 0.0000322,
+   "pagerank": 0.001214878
+ },
+ {
+   "id": 571,
+   "name": "Ralf (Limper)",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000373649
+ },
+ {
+   "id": 572,
+   "name": "Ralf Stonehouse",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.00036651
+ },
+ {
+   "id": 573,
+   "name": "Ramsay Snow",
+   "degree": 23,
+   "peel": 9,
+   "diversity": 2.002058727,
+   "betweenness": 0.016712732,
+   "pagerank": 0.004330747
+ },
+ {
+   "id": 574,
+   "name": "Randyll Tarly",
+   "degree": 13,
+   "peel": 7,
+   "diversity": 2.031759219,
+   "betweenness": 0.004472798,
+   "pagerank": 0.001229287
+ },
+ {
+   "id": 575,
+   "name": "Rast",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.242453325,
+   "betweenness": 0.0000233,
+   "pagerank": 0.000516994
+ },
+ {
+   "id": 576,
+   "name": "Rattleshirt",
+   "degree": 11,
+   "peel": 6,
+   "diversity": 1.294545166,
+   "betweenness": 0.0000827,
+   "pagerank": 0.001746136
+ },
+ {
+   "id": 577,
+   "name": "Ravella Swann",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000263964
+ },
+ {
+   "id": 578,
+   "name": "Raymun Darry",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000299085
+ },
+ {
+   "id": 579,
+   "name": "Raymun Redbeard",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000364995
+ },
+ {
+   "id": 580,
+   "name": "Raynald Westerling",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 0.636514168,
+   "betweenness": 0.0000321,
+   "pagerank": 0.000432595
+ },
+ {
+   "id": 581,
+   "name": "Raynard",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000640699
+ },
+ {
+   "id": 582,
+   "name": "Red Oarsman",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 0.636514168,
+   "betweenness": 0.00502511,
+   "pagerank": 0.000733144
+ },
+ {
+   "id": 583,
+   "name": "Reek",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000277816
+ },
+ {
+   "id": 584,
+   "name": "Renly Baratheon",
+   "degree": 38,
+   "peel": 13,
+   "diversity": 1.877240061,
+   "betweenness": 0.018923484,
+   "pagerank": 0.007433869
+ },
+ {
+   "id": 585,
+   "name": "Rennifer Longwaters",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000596489
+ },
+ {
+   "id": 586,
+   "name": "Reznak mo Reznak",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 1.33217904,
+   "betweenness": 0,
+   "pagerank": 0.000782543
+ },
+ {
+   "id": 587,
+   "name": "Rhaegar Frey",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0.000632098,
+   "pagerank": 0.000413198
+ },
+ {
+   "id": 588,
+   "name": "Rhaegar Targaryen",
+   "degree": 18,
+   "peel": 9,
+   "diversity": 2.0330002,
+   "betweenness": 0.007841725,
+   "pagerank": 0.002563142
+ },
+ {
+   "id": 589,
+   "name": "Rhaegel Targaryen",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000247416
+ },
+ {
+   "id": 590,
+   "name": "Rhaego",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00024899
+ },
+ {
+   "id": 591,
+   "name": "Rhaella Targaryen",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.00025335
+ },
+ {
+   "id": 592,
+   "name": "Rhaenys Targaryen",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000460117
+ },
+ {
+   "id": 593,
+   "name": "Rhaenys Targaryen (daughter of Rhaegar)",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000240767
+ },
+ {
+   "id": 594,
+   "name": "Ricasso",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000683305
+ },
+ {
+   "id": 595,
+   "name": "Richard Horpe",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.00037009
+ },
+ {
+   "id": 596,
+   "name": "Rickard Karstark",
+   "degree": 12,
+   "peel": 8,
+   "diversity": 1.676234939,
+   "betweenness": 0.000916443,
+   "pagerank": 0.001254606
+ },
+ {
+   "id": 597,
+   "name": "Rickard Stark",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0.00000648,
+   "pagerank": 0.000263685
+ },
+ {
+   "id": 598,
+   "name": "Rickon Stark",
+   "degree": 17,
+   "peel": 10,
+   "diversity": 1.466907105,
+   "betweenness": 0.001981032,
+   "pagerank": 0.003680916
+ },
+ {
+   "id": 599,
+   "name": "Robar Royce",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0.0000502,
+   "pagerank": 0.000368354
+ },
+ {
+   "id": 600,
+   "name": "Robb Stark",
+   "degree": 74,
+   "peel": 13,
+   "diversity": 2.380112478,
+   "betweenness": 0.066468427,
+   "pagerank": 0.017344651
+ },
+ {
+   "id": 601,
+   "name": "Robert Arryn",
+   "degree": 20,
+   "peel": 8,
+   "diversity": 1.877524281,
+   "betweenness": 0.011219033,
+   "pagerank": 0.002562505
+ },
+ {
+   "id": 602,
+   "name": "Robert Baratheon",
+   "degree": 65,
+   "peel": 13,
+   "diversity": 2.104875124,
+   "betweenness": 0.078227691,
+   "pagerank": 0.015677734
+ },
+ {
+   "id": 603,
+   "name": "Robert Strong",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.386294361,
+   "betweenness": 0.0000306,
+   "pagerank": 0.000344689
+ },
+ {
+   "id": 604,
+   "name": "Robett Glover",
+   "degree": 7,
+   "peel": 5,
+   "diversity": 1.549826046,
+   "betweenness": 0.000500339,
+   "pagerank": 0.000580181
+ },
+ {
+   "id": 605,
+   "name": "Robin Flint",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000333527
+ },
+ {
+   "id": 606,
+   "name": "Robin Ryger",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000316213
+ },
+ {
+   "id": 607,
+   "name": "Rodrik Cassel",
+   "degree": 30,
+   "peel": 12,
+   "diversity": 2.051787046,
+   "betweenness": 0.011062043,
+   "pagerank": 0.00339896
+ },
+ {
+   "id": 608,
+   "name": "Rodrik Harlaw",
+   "degree": 7,
+   "peel": 3,
+   "diversity": 1.004242473,
+   "betweenness": 0.002132001,
+   "pagerank": 0.001142976
+ },
+ {
+   "id": 609,
+   "name": "Rodrik Sparr",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000467438
+ },
+ {
+   "id": 610,
+   "name": "Roger Ryswell",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000321248
+ },
+ {
+   "id": 611,
+   "name": "Rolfe the Dwarf",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000250159
+ },
+ {
+   "id": 612,
+   "name": "Rollam Westerling",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000298771
+ },
+ {
+   "id": 613,
+   "name": "Rolly Duckfield",
+   "degree": 8,
+   "peel": 6,
+   "diversity": 1.213007566,
+   "betweenness": 0.0000135,
+   "pagerank": 0.001381021
+ },
+ {
+   "id": 614,
+   "name": "Rolph Spicer",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00024019
+ },
+ {
+   "id": 615,
+   "name": "Ronnet Connington",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000260535
+ },
+ {
+   "id": 616,
+   "name": "Roone",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0,
+   "betweenness": 7.92e-7,
+   "pagerank": 0.000920016
+ },
+ {
+   "id": 617,
+   "name": "Roose Bolton",
+   "degree": 28,
+   "peel": 12,
+   "diversity": 1.98950834,
+   "betweenness": 0.005556184,
+   "pagerank": 0.003105126
+ },
+ {
+   "id": 618,
+   "name": "Roose Ryswell",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000221924
+ },
+ {
+   "id": 619,
+   "name": "Rorge",
+   "degree": 9,
+   "peel": 5,
+   "diversity": 1.522955068,
+   "betweenness": 0.000417866,
+   "pagerank": 0.001253026
+ },
+ {
+   "id": 620,
+   "name": "Rory",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000326228
+ },
+ {
+   "id": 621,
+   "name": "Rosey",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00059763
+ },
+ {
+   "id": 622,
+   "name": "Roslin Frey",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 1.054920168,
+   "betweenness": 0,
+   "pagerank": 0.000672614
+ },
+ {
+   "id": 623,
+   "name": "Rossart",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000241434
+ },
+ {
+   "id": 624,
+   "name": "Rowan",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.609437912,
+   "betweenness": 0.0000576,
+   "pagerank": 0.000628659
+ },
+ {
+   "id": 625,
+   "name": "Rugen",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000442313
+ },
+ {
+   "id": 626,
+   "name": "Rus",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000315399
+ },
+ {
+   "id": 627,
+   "name": "Ryk",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0.562335145,
+   "betweenness": 0,
+   "pagerank": 0.000531352
+ },
+ {
+   "id": 628,
+   "name": "Ryman Frey",
+   "degree": 12,
+   "peel": 6,
+   "diversity": 1.704551445,
+   "betweenness": 0.001020753,
+   "pagerank": 0.001127589
+ },
+ {
+   "id": 629,
+   "name": "Salladhor Saan",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.609437912,
+   "betweenness": 0.00000954,
+   "pagerank": 0.001188731
+ },
+ {
+   "id": 630,
+   "name": "Sallor",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000518784
+ },
+ {
+   "id": 631,
+   "name": "Samwell Tarly",
+   "degree": 44,
+   "peel": 8,
+   "diversity": 1.958122578,
+   "betweenness": 0.041466204,
+   "pagerank": 0.011871965
+ },
+ {
+   "id": 632,
+   "name": "Sandor Clegane",
+   "degree": 36,
+   "peel": 13,
+   "diversity": 1.849112878,
+   "betweenness": 0.008828141,
+   "pagerank": 0.005438164
+ },
+ {
+   "id": 633,
+   "name": "Sansa Stark",
+   "degree": 75,
+   "peel": 13,
+   "diversity": 2.323459966,
+   "betweenness": 0.048690982,
+   "pagerank": 0.016291184
+ },
+ {
+   "id": 634,
+   "name": "Sarella Sand",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000246374
+ },
+ {
+   "id": 635,
+   "name": "Satin",
+   "degree": 13,
+   "peel": 6,
+   "diversity": 1.844621476,
+   "betweenness": 0.00294103,
+   "pagerank": 0.001724603
+ },
+ {
+   "id": 636,
+   "name": "Sawane Botley",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000260678
+ },
+ {
+   "id": 637,
+   "name": "Scar",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.00032711
+ },
+ {
+   "id": 638,
+   "name": "Scolera",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000644208
+ },
+ {
+   "id": 639,
+   "name": "Selwyn Tarth",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000236456
+ },
+ {
+   "id": 640,
+   "name": "Selyse Florent",
+   "degree": 19,
+   "peel": 7,
+   "diversity": 1.909660422,
+   "betweenness": 0.005670667,
+   "pagerank": 0.003097164
+ },
+ {
+   "id": 641,
+   "name": "Senelle",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.00029625
+ },
+ {
+   "id": 642,
+   "name": "Shadd",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000262648
+ },
+ {
+   "id": 643,
+   "name": "Shadrich",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0.000132657,
+   "pagerank": 0.000322764
+ },
+ {
+   "id": 644,
+   "name": "Shae",
+   "degree": 13,
+   "peel": 7,
+   "diversity": 1.524707393,
+   "betweenness": 0.000826092,
+   "pagerank": 0.001752541
+ },
+ {
+   "id": 645,
+   "name": "Shagga",
+   "degree": 7,
+   "peel": 4,
+   "diversity": 1.549826046,
+   "betweenness": 0.005057665,
+   "pagerank": 0.001493422
+ },
+ {
+   "id": 646,
+   "name": "Shagwell",
+   "degree": 6,
+   "peel": 4,
+   "diversity": 1.011404265,
+   "betweenness": 0.000199782,
+   "pagerank": 0.000772709
+ },
+ {
+   "id": 647,
+   "name": "Sharna",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0.562335145,
+   "betweenness": 0.00000158,
+   "pagerank": 0.000380371
+ },
+ {
+   "id": 648,
+   "name": "Shireen Baratheon",
+   "degree": 13,
+   "peel": 7,
+   "diversity": 1.884871334,
+   "betweenness": 0.003259286,
+   "pagerank": 0.001234029
+ },
+ {
+   "id": 649,
+   "name": "Shitmouth",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000220526
+ },
+ {
+   "id": 650,
+   "name": "Shortear",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00043965
+ },
+ {
+   "id": 651,
+   "name": "Shrouded Lord",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000227292
+ },
+ {
+   "id": 652,
+   "name": "Sigfryd Harlaw",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000442543
+ },
+ {
+   "id": 653,
+   "name": "Sigorn",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.386294361,
+   "betweenness": 0.0000542,
+   "pagerank": 0.000410478
+ },
+ {
+   "id": 654,
+   "name": "Simon Toyne",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000453171
+ },
+ {
+   "id": 655,
+   "name": "Skahaz mo Kandaq",
+   "degree": 12,
+   "peel": 8,
+   "diversity": 1.075139324,
+   "betweenness": 0.0000594,
+   "pagerank": 0.001829313
+ },
+ {
+   "id": 656,
+   "name": "Skinner",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.33217904,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000887165
+ },
+ {
+   "id": 657,
+   "name": "Small Paul",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 0.636514168,
+   "betweenness": 0.0000119,
+   "pagerank": 0.000776101
+ },
+ {
+   "id": 658,
+   "name": "Smiling Knight",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000724057
+ },
+ {
+   "id": 659,
+   "name": "Softfoot",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00025316
+ },
+ {
+   "id": 660,
+   "name": "Soren Shieldbreaker",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00022145
+ },
+ {
+   "id": 661,
+   "name": "Sour Alyn",
+   "degree": 6,
+   "peel": 4,
+   "diversity": 1.329661349,
+   "betweenness": 0.0000141,
+   "pagerank": 0.000979725
+ },
+ {
+   "id": 662,
+   "name": "Spare Boot",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.011404265,
+   "betweenness": 0.00000127,
+   "pagerank": 0.000527414
+ },
+ {
+   "id": 663,
+   "name": "Spotted Cat",
+   "degree": 6,
+   "peel": 4,
+   "diversity": 1.242453325,
+   "betweenness": 0.003356216,
+   "pagerank": 0.000919978
+ },
+ {
+   "id": 664,
+   "name": "Squint",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 1.098612289,
+   "betweenness": 0.00000739,
+   "pagerank": 0.000515248
+ },
+ {
+   "id": 665,
+   "name": "Squirrel",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.386294361,
+   "betweenness": 0.00000919,
+   "pagerank": 0.000486326
+ },
+ {
+   "id": 666,
+   "name": "Stafford Lannister",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0.562335145,
+   "betweenness": 0.0000489,
+   "pagerank": 0.000332016
+ },
+ {
+   "id": 667,
+   "name": "Stannis Baratheon",
+   "degree": 89,
+   "peel": 13,
+   "diversity": 2.399455178,
+   "betweenness": 0.110139553,
+   "pagerank": 0.018051671
+ },
+ {
+   "id": 668,
+   "name": "Steelskin",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000324408
+ },
+ {
+   "id": 669,
+   "name": "Steffon Baratheon",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00025158
+ },
+ {
+   "id": 670,
+   "name": "Steffon Varner",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000484995
+ },
+ {
+   "id": 671,
+   "name": "Stevron Frey",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.33217904,
+   "betweenness": 0.00000264,
+   "pagerank": 0.000435193
+ },
+ {
+   "id": 672,
+   "name": "Stiv",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000257121
+ },
+ {
+   "id": 673,
+   "name": "Stonesnake",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.00000211,
+   "pagerank": 0.000514585
+ },
+ {
+   "id": 674,
+   "name": "Stygg",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 1.098612289,
+   "betweenness": 0.00000422,
+   "pagerank": 0.000497838
+ },
+ {
+   "id": 675,
+   "name": "Styr",
+   "degree": 8,
+   "peel": 6,
+   "diversity": 1.073542846,
+   "betweenness": 0.0000212,
+   "pagerank": 0.001405197
+ },
+ {
+   "id": 676,
+   "name": "Sweets",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000393154
+ },
+ {
+   "id": 677,
+   "name": "Sybell Spicer",
+   "degree": 6,
+   "peel": 4,
+   "diversity": 1.329661349,
+   "betweenness": 0.002361903,
+   "pagerank": 0.000603267
+ },
+ {
+   "id": 678,
+   "name": "Sybelle Glover",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0.0000181,
+   "pagerank": 0.00037011
+ },
+ {
+   "id": 679,
+   "name": "Sylva Santagar",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 0.950270539,
+   "betweenness": 0.000041,
+   "pagerank": 0.000756735
+ },
+ {
+   "id": 680,
+   "name": "Symon Silver Tongue",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000325363
+ },
+ {
+   "id": 681,
+   "name": "Symon Stripeback",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.00043394
+ },
+ {
+   "id": 682,
+   "name": "Symond Templeton",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 0.500402424,
+   "betweenness": 0.0000378,
+   "pagerank": 0.000651893
+ },
+ {
+   "id": 683,
+   "name": "Syrio Forel",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.039720771,
+   "betweenness": 0.00000994,
+   "pagerank": 0.00063575
+ },
+ {
+   "id": 684,
+   "name": "Taena of Myr",
+   "degree": 12,
+   "peel": 8,
+   "diversity": 1.676234939,
+   "betweenness": 0.000492062,
+   "pagerank": 0.001215846
+ },
+ {
+   "id": 685,
+   "name": "Talbert Serry",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000453024
+ },
+ {
+   "id": 686,
+   "name": "Talea",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000355607
+ },
+ {
+   "id": 687,
+   "name": "Tallad",
+   "degree": 6,
+   "peel": 4,
+   "diversity": 1.242453325,
+   "betweenness": 0.000844655,
+   "pagerank": 0.000546731
+ },
+ {
+   "id": 688,
+   "name": "Tanda Stokeworth",
+   "degree": 7,
+   "peel": 6,
+   "diversity": 1.475076311,
+   "betweenness": 0.0000231,
+   "pagerank": 0.000707311
+ },
+ {
+   "id": 689,
+   "name": "Tansy",
+   "degree": 6,
+   "peel": 6,
+   "diversity": 1.560710409,
+   "betweenness": 0.000190475,
+   "pagerank": 0.000467736
+ },
+ {
+   "id": 690,
+   "name": "Tarber",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000474981
+ },
+ {
+   "id": 691,
+   "name": "Tattered Prince",
+   "degree": 8,
+   "peel": 4,
+   "diversity": 1.073542846,
+   "betweenness": 0.005877204,
+   "pagerank": 0.001280541
+ },
+ {
+   "id": 692,
+   "name": "Ternesio Terys",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000330469
+ },
+ {
+   "id": 693,
+   "name": "Terrance Lynderly",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 1.098612289,
+   "betweenness": 0.002515723,
+   "pagerank": 0.0008394
+ },
+ {
+   "id": 694,
+   "name": "Theobald",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000264075
+ },
+ {
+   "id": 695,
+   "name": "Theomore",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000270385
+ },
+ {
+   "id": 696,
+   "name": "Theon Greyjoy",
+   "degree": 66,
+   "peel": 12,
+   "diversity": 2.307204332,
+   "betweenness": 0.111283318,
+   "pagerank": 0.013877295
+ },
+ {
+   "id": 697,
+   "name": "Thistle",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000406055
+ },
+ {
+   "id": 698,
+   "name": "Thoren Smallwood",
+   "degree": 9,
+   "peel": 5,
+   "diversity": 1.676987774,
+   "betweenness": 0.002560759,
+   "pagerank": 0.001151752
+ },
+ {
+   "id": 699,
+   "name": "Thoros of Myr",
+   "degree": 9,
+   "peel": 7,
+   "diversity": 1.58109375,
+   "betweenness": 0.000502707,
+   "pagerank": 0.001517948
+ },
+ {
+   "id": 700,
+   "name": "Tickler",
+   "degree": 12,
+   "peel": 12,
+   "diversity": 0.679193266,
+   "betweenness": 0,
+   "pagerank": 0.001448483
+ },
+ {
+   "id": 701,
+   "name": "Timeon",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0.693147181,
+   "betweenness": 0.0000286,
+   "pagerank": 0.000555996
+ },
+ {
+   "id": 702,
+   "name": "Timett",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.039720771,
+   "betweenness": 0.0000041,
+   "pagerank": 0.000534884
+ },
+ {
+   "id": 703,
+   "name": "Timoth",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00023997
+ },
+ {
+   "id": 704,
+   "name": "Tion Frey",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00045581
+ },
+ {
+   "id": 705,
+   "name": "Tobho Mott",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000256745
+ },
+ {
+   "id": 706,
+   "name": "Todder",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.039720771,
+   "betweenness": 0,
+   "pagerank": 0.000634487
+ },
+ {
+   "id": 707,
+   "name": "Tom Barleycorn",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000232452
+ },
+ {
+   "id": 708,
+   "name": "Tom of Sevenstreams",
+   "degree": 9,
+   "peel": 6,
+   "diversity": 1.58109375,
+   "betweenness": 0.000428688,
+   "pagerank": 0.001254658
+ },
+ {
+   "id": 709,
+   "name": "Tomard",
+   "degree": 7,
+   "peel": 5,
+   "diversity": 1.153741943,
+   "betweenness": 0.000146291,
+   "pagerank": 0.000682677
+ },
+ {
+   "id": 710,
+   "name": "Tommen Baratheon",
+   "degree": 33,
+   "peel": 12,
+   "diversity": 1.946915338,
+   "betweenness": 0.006251297,
+   "pagerank": 0.005535565
+ },
+ {
+   "id": 711,
+   "name": "Torbert",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000500465
+ },
+ {
+   "id": 712,
+   "name": "Toregg",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000423017
+ },
+ {
+   "id": 713,
+   "name": "Torghen Flint",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000442975
+ },
+ {
+   "id": 714,
+   "name": "Torgon Greyiron",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000250159
+ },
+ {
+   "id": 715,
+   "name": "Tormund",
+   "degree": 15,
+   "peel": 6,
+   "diversity": 1.767009191,
+   "betweenness": 0.005149821,
+   "pagerank": 0.00271543
+ },
+ {
+   "id": 716,
+   "name": "Torrhen Karstark",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 0.636514168,
+   "betweenness": 0.0000523,
+   "pagerank": 0.000400213
+ },
+ {
+   "id": 717,
+   "name": "Torrhen Stark",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000286139
+ },
+ {
+   "id": 718,
+   "name": "Torwold Browntooth",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000526955
+ },
+ {
+   "id": 719,
+   "name": "Tregar",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000227473
+ },
+ {
+   "id": 720,
+   "name": "Tristifer Botley",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000803304
+ },
+ {
+   "id": 721,
+   "name": "Tristifer IV Mudd",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000219491
+ },
+ {
+   "id": 722,
+   "name": "Trystane Martell",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0.0000641,
+   "pagerank": 0.000380437
+ },
+ {
+   "id": 723,
+   "name": "Tybero Istarion",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000428926
+ },
+ {
+   "id": 724,
+   "name": "Tycho Nestoris",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0.000534001,
+   "pagerank": 0.000460313
+ },
+ {
+   "id": 725,
+   "name": "Tyene Sand",
+   "degree": 9,
+   "peel": 5,
+   "diversity": 1.676987774,
+   "betweenness": 0.00267653,
+   "pagerank": 0.001293676
+ },
+ {
+   "id": 726,
+   "name": "Tyrion Lannister",
+   "degree": 122,
+   "peel": 13,
+   "diversity": 2.466368473,
+   "betweenness": 0.162191096,
+   "pagerank": 0.03284906
+ },
+ {
+   "id": 727,
+   "name": "Tysha",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 0.562335145,
+   "betweenness": 0.000015,
+   "pagerank": 0.000425077
+ },
+ {
+   "id": 728,
+   "name": "Tytos Blackwood",
+   "degree": 5,
+   "peel": 3,
+   "diversity": 1.33217904,
+   "betweenness": 0.000104712,
+   "pagerank": 0.000478893
+ },
+ {
+   "id": 729,
+   "name": "Tywin Lannister",
+   "degree": 48,
+   "peel": 13,
+   "diversity": 2.026165337,
+   "betweenness": 0.020669858,
+   "pagerank": 0.007644692
+ },
+ {
+   "id": 730,
+   "name": "Ulf son of Umar",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000260961
+ },
+ {
+   "id": 731,
+   "name": "Ulmer",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00022145
+ },
+ {
+   "id": 732,
+   "name": "Umma",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000253175
+ },
+ {
+   "id": 733,
+   "name": "Unella",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.00000317,
+   "pagerank": 0.000862194
+ },
+ {
+   "id": 734,
+   "name": "Urswyck",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000306083
+ },
+ {
+   "id": 735,
+   "name": "Urzen",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000353687
+ },
+ {
+   "id": 736,
+   "name": "Utherydes Wayn",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000408889
+ },
+ {
+   "id": 737,
+   "name": "Val",
+   "degree": 9,
+   "peel": 6,
+   "diversity": 1.522955068,
+   "betweenness": 0.000812097,
+   "pagerank": 0.001651056
+ },
+ {
+   "id": 738,
+   "name": "Varamyr",
+   "degree": 6,
+   "peel": 3,
+   "diversity": 1.242453325,
+   "betweenness": 0.007537665,
+   "pagerank": 0.001419966
+ },
+ {
+   "id": 739,
+   "name": "Vardis Egen",
+   "degree": 6,
+   "peel": 4,
+   "diversity": 1.560710409,
+   "betweenness": 0.000178986,
+   "pagerank": 0.000642911
+ },
+ {
+   "id": 740,
+   "name": "Vargo Hoat",
+   "degree": 10,
+   "peel": 6,
+   "diversity": 1.33217904,
+   "betweenness": 0.000684034,
+   "pagerank": 0.001091866
+ },
+ {
+   "id": 741,
+   "name": "Varly",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000227473
+ },
+ {
+   "id": 742,
+   "name": "Varys",
+   "degree": 34,
+   "peel": 13,
+   "diversity": 1.876820905,
+   "betweenness": 0.009201379,
+   "pagerank": 0.006229212
+ },
+ {
+   "id": 743,
+   "name": "Vayon Poole",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 0.500402424,
+   "betweenness": 0,
+   "pagerank": 0.000468302
+ },
+ {
+   "id": 744,
+   "name": "Victarion Greyjoy",
+   "degree": 24,
+   "peel": 5,
+   "diversity": 1.856036234,
+   "betweenness": 0.036450737,
+   "pagerank": 0.006672877
+ },
+ {
+   "id": 745,
+   "name": "Visenya Targaryen",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000424507
+ },
+ {
+   "id": 746,
+   "name": "Viserys Targaryen",
+   "degree": 14,
+   "peel": 8,
+   "diversity": 1.809514256,
+   "betweenness": 0.002457249,
+   "pagerank": 0.002157296
+ },
+ {
+   "id": 747,
+   "name": "Vylarr",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000273664
+ },
+ {
+   "id": 748,
+   "name": "Vyman",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0.0000058,
+   "pagerank": 0.000441609
+ },
+ {
+   "id": 749,
+   "name": "Waif",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000617169
+ },
+ {
+   "id": 750,
+   "name": "Walda Frey (daughter of Merrett)",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000279242
+ },
+ {
+   "id": 751,
+   "name": "Walder Frey",
+   "degree": 19,
+   "peel": 10,
+   "diversity": 1.986266518,
+   "betweenness": 0.006634157,
+   "pagerank": 0.002404955
+ },
+ {
+   "id": 752,
+   "name": "Walder Frey (son of Jammos)",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 0.636514168,
+   "betweenness": 0,
+   "pagerank": 0.000554463
+ },
+ {
+   "id": 753,
+   "name": "Walder Frey (son of Merrett)",
+   "degree": 8,
+   "peel": 6,
+   "diversity": 1.320888343,
+   "betweenness": 0.000137213,
+   "pagerank": 0.00093115
+ },
+ {
+   "id": 754,
+   "name": "Walder Rivers",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.33217904,
+   "betweenness": 0.0000615,
+   "pagerank": 0.000539948
+ },
+ {
+   "id": 755,
+   "name": "Walgrave",
+   "degree": 2,
+   "peel": 1,
+   "diversity": 0.693147181,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000965371
+ },
+ {
+   "id": 756,
+   "name": "Walton",
+   "degree": 5,
+   "peel": 4,
+   "diversity": 1.33217904,
+   "betweenness": 0.002515723,
+   "pagerank": 0.000735855
+ },
+ {
+   "id": 757,
+   "name": "Watt",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000224086
+ },
+ {
+   "id": 758,
+   "name": "Waymar Royce",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 0.636514168,
+   "betweenness": 0.001593511,
+   "pagerank": 0.001092001
+ },
+ {
+   "id": 759,
+   "name": "Weasel",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.039720771,
+   "betweenness": 0.00000539,
+   "pagerank": 0.000500168
+ },
+ {
+   "id": 760,
+   "name": "Weeper",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 0.950270539,
+   "betweenness": 0.00000634,
+   "pagerank": 0.000490304
+ },
+ {
+   "id": 761,
+   "name": "Weese",
+   "degree": 8,
+   "peel": 6,
+   "diversity": 1.255482325,
+   "betweenness": 0.000107469,
+   "pagerank": 0.000723267
+ },
+ {
+   "id": 762,
+   "name": "Wendel Manderly",
+   "degree": 7,
+   "peel": 4,
+   "diversity": 1.747868097,
+   "betweenness": 0.002579961,
+   "pagerank": 0.000814957
+ },
+ {
+   "id": 763,
+   "name": "Werlag",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000360739
+ },
+ {
+   "id": 764,
+   "name": "Wex Pyke",
+   "degree": 5,
+   "peel": 3,
+   "diversity": 1.609437912,
+   "betweenness": 0.002152951,
+   "pagerank": 0.00097706
+ },
+ {
+   "id": 765,
+   "name": "Wick Whittlestick",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000298864
+ },
+ {
+   "id": 766,
+   "name": "Widower",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00022139
+ },
+ {
+   "id": 767,
+   "name": "Will (prologue)",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.001008893
+ },
+ {
+   "id": 768,
+   "name": "Willam Dustin",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000254327
+ },
+ {
+   "id": 769,
+   "name": "Willas Tyrell",
+   "degree": 8,
+   "peel": 7,
+   "diversity": 1.213007566,
+   "betweenness": 0.0000165,
+   "pagerank": 0.000547806
+ },
+ {
+   "id": 770,
+   "name": "Willem Lannister",
+   "degree": 4,
+   "peel": 2,
+   "diversity": 1.386294361,
+   "betweenness": 0.002623001,
+   "pagerank": 0.000784547
+ },
+ {
+   "id": 771,
+   "name": "William Foxglove",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000221924
+ },
+ {
+   "id": 772,
+   "name": "Willis Wode",
+   "degree": 6,
+   "peel": 5,
+   "diversity": 1.560710409,
+   "betweenness": 0.0000427,
+   "pagerank": 0.000511857
+ },
+ {
+   "id": 773,
+   "name": "Willow Heddle",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000284493
+ },
+ {
+   "id": 774,
+   "name": "Willow Witch eye",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000248835
+ },
+ {
+   "id": 775,
+   "name": "Woth",
+   "degree": 5,
+   "peel": 5,
+   "diversity": 1.33217904,
+   "betweenness": 0,
+   "pagerank": 0.000396638
+ },
+ {
+   "id": 776,
+   "name": "Wulfe",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000267817
+ },
+ {
+   "id": 777,
+   "name": "Wun Weg Wun Dar Wun",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.00000966,
+   "pagerank": 0.000582738
+ },
+ {
+   "id": 778,
+   "name": "Wyl (guard)",
+   "degree": 4,
+   "peel": 3,
+   "diversity": 1.039720771,
+   "betweenness": 0.000269369,
+   "pagerank": 0.000418843
+ },
+ {
+   "id": 779,
+   "name": "Wylis Manderly",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000248762
+ },
+ {
+   "id": 780,
+   "name": "Wylla",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000217715
+ },
+ {
+   "id": 781,
+   "name": "Wyman Manderly",
+   "degree": 17,
+   "peel": 8,
+   "diversity": 1.905420043,
+   "betweenness": 0.009242797,
+   "pagerank": 0.002203488
+ },
+ {
+   "id": 782,
+   "name": "Wynton Stout",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000222095
+ },
+ {
+   "id": 783,
+   "name": "Xaro Xhoan Daxos",
+   "degree": 3,
+   "peel": 2,
+   "diversity": 1.098612289,
+   "betweenness": 0.0000448,
+   "pagerank": 0.000741878
+ },
+ {
+   "id": 784,
+   "name": "Xhondo",
+   "degree": 2,
+   "peel": 2,
+   "diversity": 0.693147181,
+   "betweenness": 0,
+   "pagerank": 0.000515215
+ },
+ {
+   "id": 785,
+   "name": "Yandry",
+   "degree": 7,
+   "peel": 6,
+   "diversity": 0.955699891,
+   "betweenness": 0.00000204,
+   "pagerank": 0.000967965
+ },
+ {
+   "id": 786,
+   "name": "Yellow Dick",
+   "degree": 3,
+   "peel": 3,
+   "diversity": 1.098612289,
+   "betweenness": 0,
+   "pagerank": 0.000444504
+ },
+ {
+   "id": 787,
+   "name": "Yezzan zo Qaggaz",
+   "degree": 5,
+   "peel": 3,
+   "diversity": 1.33217904,
+   "betweenness": 0.00000581,
+   "pagerank": 0.000861203
+ },
+ {
+   "id": 788,
+   "name": "Ygritte",
+   "degree": 13,
+   "peel": 6,
+   "diversity": 1.73265872,
+   "betweenness": 0.002655179,
+   "pagerank": 0.002400135
+ },
+ {
+   "id": 789,
+   "name": "Yohn Royce",
+   "degree": 8,
+   "peel": 4,
+   "diversity": 1.494175138,
+   "betweenness": 0.001976174,
+   "pagerank": 0.000829984
+ },
+ {
+   "id": 790,
+   "name": "Yoren",
+   "degree": 18,
+   "peel": 8,
+   "diversity": 1.875121856,
+   "betweenness": 0.00484853,
+   "pagerank": 0.001645924
+ },
+ {
+   "id": 791,
+   "name": "Yorko Terys",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000253175
+ },
+ {
+   "id": 792,
+   "name": "Ysilla",
+   "degree": 6,
+   "peel": 6,
+   "diversity": 0.867563228,
+   "betweenness": 0,
+   "pagerank": 0.000725298
+ },
+ {
+   "id": 793,
+   "name": "Yurkhaz zo Yunzak",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.000235622
+ },
+ {
+   "id": 794,
+   "name": "Zei",
+   "degree": 1,
+   "peel": 1,
+   "diversity": 0,
+   "betweenness": 0,
+   "pagerank": 0.00022145
+ },
+ {
+   "id": 795,
+   "name": "Zollo",
+   "degree": 4,
+   "peel": 4,
+   "diversity": 1.386294361,
+   "betweenness": 6.34e-7,
+   "pagerank": 0.000385717
+ }
+]
